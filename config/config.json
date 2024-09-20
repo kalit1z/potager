@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "Jardins Passion | Expert en Potagers",
-    "base_url": "/",
+    "base_url": "https://www.jardins-passion.fr/",
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
     "logo_width": "234",
