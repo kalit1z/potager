@@ -6,7 +6,7 @@ date: 2024-09-13
 image: "/images/posts/framboise/planteframboisier.webp"
 imageAlt: "Jardinier taillant un framboisier, montrant les différentes étapes de taille selon les saisons"
 categories: ["Entretenir votre potager"]
-authors: ["Pierre Penchot"]
+authors: ["Jade Orlanal"]
 tags: ["framboisier", "tailler"]
 draft: false
 ---

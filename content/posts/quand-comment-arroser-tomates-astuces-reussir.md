@@ -6,7 +6,7 @@ date: 2024-09-17
 image: "/images/posts/tomates/tomatesmouiller.webp"
 imageAlt: "Arrosage optimal d'un plant de tomates dans un potager ensoleillé"
 categories: ["Entretenir votre potager"]
-authors: ["Pierre Penchot"]
+authors: ["Jade Orlanal"]
 tags: ["tomates", "arrosage"]
 draft: false
 ---
