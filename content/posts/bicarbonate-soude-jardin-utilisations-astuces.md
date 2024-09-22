@@ -11,8 +11,6 @@ tags: ["bicarbonate de soude", "jardinage naturel"]
 draft: false
 ---
 
-# Bicarbonate de soude au jardin : Utilisations et astuces méconnues
-
 Le bicarbonate de soude, ce produit polyvalent que l'on trouve dans presque toutes les cuisines, se révèle être un allié précieux pour les jardiniers. Économique, écologique et facile à utiliser, il offre de nombreuses solutions pour entretenir votre jardin naturellement. Découvrons ensemble les utilisations surprenantes de ce produit miracle au jardin.
 
 ## Bicarbonate de soude jardin : Un allié multifonction
