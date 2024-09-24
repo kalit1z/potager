@@ -181,7 +181,6 @@ date_modified: "2024-09-13"
   <li>Utilisez des outils propres et bien aiguisés pour éviter d'endommager les plantes</li>
   <li>Récoltez par temps sec pour réduire les risques de propagation des maladies</li>
   <li>Manipulez délicatement les fruits et légumes pour éviter les meurtrissures</li>
-  <li>Pour les légumes-feuilles, coupez plutôt que d'arracher pour favoriser une repousse</li>
   <li>Récoltez régulièrement pour encourager une production continue</li>
 </ul>
 
