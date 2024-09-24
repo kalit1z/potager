@@ -195,15 +195,6 @@ date_modified: "2024-09-13"
   <li>Courges et potirons : Gardez-les dans un endroit sec et frais pour une conservation longue durée</li>
 </ul>
 
-<h3>De la terre à l'assiette : Savourer vos récoltes</h3>
-<p>Profitez pleinement de la <em>saveur incomparable des légumes fraîchement cueillis</em> :</p>
-<ul>
-  <li>Consommez vos légumes rapidement après la récolte pour bénéficier de leur maximum de nutriments</li>
-  <li>Expérimentez des recettes simples qui mettent en valeur la fraîcheur de vos produits</li>
-  <li>Partagez vos surplus avec vos voisins ou utilisez des méthodes de conservation (congélation, mise en conserve)</li>
-  <li>Organisez des repas "du jardin à la table" pour célébrer vos récoltes avec vos proches</li>
-</ul>
-
 <p>La récolte est le moment le plus gratifiant du jardinage. En maîtrisant l'art de récolter et de conserver vos légumes, vous prolongerez le plaisir de déguster les <strong>fruits de votre travail</strong>. Chaque bouchée sera un rappel des soins que vous avez apportés à votre potager, de la graine à la table. Savourez cette connexion unique avec votre nourriture et la satisfaction d'avoir cultivé vos propres aliments sains et délicieux.</p>
 
 <a href="/categories/recolter-votre-potager">En découvrir plus sur la récolte et la conservation des légumes →</a>
