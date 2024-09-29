@@ -5,7 +5,7 @@ description: "Découvrez tous les secrets de l'ail des ours, de sa cueillette à
 date: 2024-09-30
 image: "/images/posts/ail-des-ours/ail-des-ours.webp"
 imageAlt: "Feuilles fraîches d'ail des ours dans une forêt printanière"
-categories: ["Plantes Sauvages", "Cuisine"]
+categories: ["Astuces du potager"]
 authors: ["Pierre Penchot"]
 tags: ["ail des ours", "plantes comestibles"]
 draft: false
