@@ -3,7 +3,7 @@ title: "Quand et Comment Planter les Oignons : Le Guide Complet du Jardinier Pas
 meta_title: "Planter des Oignons | Guide Pratique Détaillé pour une Récolte Abondante"
 description: "Découvrez les meilleures périodes et techniques pour planter vos oignons. Des conseils d'expert pour une culture réussie, de la préparation du sol à la récolte, avec une FAQ complète."
 date: 2024-10-01
-image: "/images/posts/oignons/plantation-oignons.webp"
+image: "/images/posts/oignions/plantation-oignons.webp"
 imageAlt: "Plantation d'oignons dans un potager bien entretenu avec diverses étapes de croissance"
 categories: ["Planter votre potager"]
 authors: ["Pierre Penchot"]
