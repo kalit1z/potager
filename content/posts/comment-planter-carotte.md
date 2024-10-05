@@ -149,4 +149,8 @@ La culture des carottes, bien que demandant de la patience et de l'attention, es
 
 N'oubliez pas que chaque jardin est unique. Expérimentez, observez et adaptez ces techniques à votre environnement spécifique. Avec le temps, vous développerez une intuition pour les besoins de vos carottes.
 
-Que vos récoltes soient abondantes et vos expériences potagères enrichissantes ! Comme le disait le célèbre chef français Auguste Escoffier : ""Une cuisine sans carottes, c'est comme une journée sans soleil."" Alors, êtes-vous prêt à apporter ce rayon de soleil dans votre potager et votre cuisine ? Bon jardinage, et que vos carottes soient aussi croquantes que délicieuses !
+Que vos récoltes soient abondantes et vos expériences potagères enrichissantes ! 
+
+>Comme le disait le célèbre chef français Auguste Escoffier : ""Une cuisine sans carottes, c'est comme une journée sans soleil."" 
+
+Alors, êtes-vous prêt à apporter ce rayon de soleil dans votre potager et votre cuisine ? Bon jardinage, et que vos carottes soient aussi croquantes que délicieuses !
