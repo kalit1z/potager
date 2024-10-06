@@ -1,6 +1,6 @@
 ---
 title: "Quand et Comment Planter les Concombres : Le Guide Complet pour une Récolte Croquante et Abondante"
-meta_title: "Planter des Concombres | Guide Pratique Détaillé 
+meta_title: "Planter des Concombres | Guide Pratique Détaillé"
 description: "Découvrez les meilleures périodes et techniques pour planter vos concombres. Des conseils d'expert pour une culture réussie, de la préparation du sol à la récolte, avec une FAQ complète."
 date: 2024-10-02
 image: "/images/posts/concombres/concombres.webp"
