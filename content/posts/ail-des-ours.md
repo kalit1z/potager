@@ -1,6 +1,6 @@
 ---
 title: "L'Ail des Ours : De la Cueillette au Pesto, Guide Complet"
-meta_title: "Ail des Ours : Cueillette, Conservation et Recettes | Guide Ultime"
+meta_title: "Ail des Ours : Cueillette, Conservation et Recettes"
 description: "Découvrez tous les secrets de l'ail des ours, de sa cueillette à la préparation de délicieux pestos. Conseils d'expert pour identifier, conserver et cuisiner cette plante sauvage."
 date: 2024-09-30
 image: "/images/posts/ail-des-ours/ail-des-ours.webp"

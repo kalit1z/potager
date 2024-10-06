@@ -1,6 +1,6 @@
 ---
 title: "Piéride du Chou : Guide Complet pour Vaincre ce Fléau du Potager"
-meta_title: "Combattre la Piéride du Chou | Astuces Efficaces pour Jardiniers Amateurs et Chevronnés"
+meta_title: "Combattre la Piéride du Chou | Astuces Efficaces"
 description: "Découvrez des méthodes naturelles et efficaces pour lutter contre la piéride du chou et protéger vos crucifères. Des solutions simples et écologiques pour un potager sain, productif et respectueux de l'environnement."
 date: 2024-09-27
 image: "/images/posts/pieride/zoom.webp"
