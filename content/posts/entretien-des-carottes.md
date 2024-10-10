@@ -90,8 +90,10 @@ La récolte des carottes est le moment de vérité, où vous pouvez enfin appré
 - Les carottes sont généralement prêtes 2 à 3 mois après le semis
 - Récoltez lorsque le sommet de la racine atteint 2-3 cm de diamètre
 - Soulevez délicatement les carottes avec une fourche-bêche pour éviter de les casser
-[En savoir plus sur quand et comment planter les carottes -->](comment-planter-carotte)
+
+
 ### Techniques de Conservation
+
 
 - Brossez délicatement les carottes sans les laver
 - Stockez-les dans un endroit frais et sombre, idéalement entre 0 et 5°C
@@ -121,5 +123,7 @@ L'entretien des carottes dans votre potager demande de l'attention et de la rég
 Rappelez-vous que chaque jardin est unique, et une partie du plaisir du jardinage réside dans l'expérimentation et l'apprentissage continu. N'hésitez pas à adapter ces techniques à votre environnement spécifique et à vos préférences personnelles.
 
 Avec de la patience et de la pratique, vous développerez votre propre expertise dans la culture des carottes. Que vos récoltes soient abondantes et que vos expériences potagères soient remplies de découvertes croquantes !
+
+[En savoir plus sur quand et comment planter les carottes -->](comment-planter-carotte)
 
 Bon jardinage, et que vos carottes soient aussi savoureuses que nutritives !
