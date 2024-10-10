@@ -7,7 +7,7 @@ image: "/images/posts/carottes/recolte-carottes.webp"
 imageAlt: "Mains tenant des carottes fraîchement récoltées dans un potager ensoleillé"
 categories: ["Recolter votre potager"]
 authors: ["Pierre Penchot"]
-tags: ["carottes", "récolte"]
+tags: ["carottes"]
 draft: false
 ---
 
