@@ -6,7 +6,7 @@ date: 2024-10-07
 image: "/images/posts/carottes/tiencarotte.webp"
 imageAlt: "Rangée de carottes en pleine croissance dans un potager bien entretenu"
 categories: ["Entretenir votre potager"]
-authors: ["Pierre Penchot"]
+authors: ["Jade Orlanal"]
 tags: ["carottes", "entretien"]
 draft: false
 ---
@@ -91,6 +91,8 @@ La récolte des carottes est le moment de vérité, où vous pouvez enfin appré
 - Récoltez lorsque le sommet de la racine atteint 2-3 cm de diamètre
 - Soulevez délicatement les carottes avec une fourche-bêche pour éviter de les casser
 
+
+[En savoir plus sur quand et comment Recolter les carottes -->](recolter-carotte)
 
 ### Techniques de Conservation
 
