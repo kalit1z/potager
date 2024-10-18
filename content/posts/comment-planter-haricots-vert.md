@@ -112,3 +112,6 @@ La plantation de haricots verts est une expérience gratifiante pour tout jardin
 N'hésitez pas à expérimenter avec différentes variétés pour trouver celles qui s'adaptent le mieux à votre jardin et à vos goûts. La satisfaction de voir vos premières pousses émerger du sol est le début d'une aventure potagère passionnante qui vous mènera, avec les soins appropriés, à une récolte abondante de haricots verts croquants et savoureux.
 
 Bon jardinage et bonne plantation !
+
+
+[En savoir plus sur comment entretenir les haricots verts -->](entretien-plants-haricots-verts)
