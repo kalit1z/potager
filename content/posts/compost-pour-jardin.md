@@ -7,7 +7,7 @@ image: "/images/posts/compost/tas-de-compost.webp"
 imageAlt: "Tas de compost frais dans un jardin, entouré de plantes verdoyantes"
 categories: ["Entretenir votre potager"]
 authors: ["Jade Orlanal"]
-tags: ["compostage", "jardinage bio"]
+tags: []
 draft: false
 ---
 

@@ -7,7 +7,7 @@ image: "/images/posts/bicarbo/bicarbo.webp"
 imageAlt: "Illustration montrant diverses utilisations du bicarbonate de soude dans un jardin, de l'arrosage des plantes à la lutte contre les parasites"
 categories: ["Astuces du potager"]
 authors: ["Pierre Penchot"]
-tags: ["bicarbonate de soude", "jardinage naturel"]
+tags: []
 draft: false
 ---
 

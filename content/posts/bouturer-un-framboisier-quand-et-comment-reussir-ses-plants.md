@@ -7,7 +7,7 @@ image: "/images/posts/framboise/tasdeframboise.webp"
 imageAlt: "Bouture de framboisier en croissance dans un pot, montrant de jeunes pousses vertes et des racines émergentes, illustrant le processus de bouturage réussi d'un framboisier"
 categories: ["Planter votre potager"]
 authors: ["Pierre Penchot"]
-tags: ["framboisier", "bouturage", "multiplication"]
+tags: []
 draft: false
 ---
 

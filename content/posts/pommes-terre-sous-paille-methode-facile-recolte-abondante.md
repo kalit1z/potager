@@ -7,7 +7,7 @@ image: "/images/posts/pommedeterre/papatefile.webp"
 imageAlt: "Culture de pommes de terre sous paille montrant des plants en croissance et le processus de buttage avec de la paille"
 categories: ["Entretenir votre potager"]
 authors: ["Jade Orlanal"]
-tags: ["pommes de terre", "culture sous paille"]
+tags: []
 draft: false
 ---
 

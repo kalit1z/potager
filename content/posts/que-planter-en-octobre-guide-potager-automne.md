@@ -7,7 +7,7 @@ image: "/images/posts/autumn/feuilleaterre.webp"
 imageAlt: "Potager en octobre illustrant les possibilités de culture pour cette période"
 categories: ["Astuces du potager"]
 authors: ["Pierre Penchot"]
-tags: ["plantation", "octobre"]
+tags: []
 draft: false
 ---
 

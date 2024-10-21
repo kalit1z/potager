@@ -7,7 +7,7 @@ image: "/images/posts/salade/salade.webp"
 imageAlt: "Salade en train de monter en graines dans un potager, illustrant le processus de montaison"
 categories: ["Astuces du potager"]
 authors: ["Pierre Penchot"]
-tags: ["salades", "montaison"]
+tags: []
 draft: false
 ---
 

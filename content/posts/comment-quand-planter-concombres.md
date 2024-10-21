@@ -7,7 +7,7 @@ image: "/images/posts/concombres/concombres.webp"
 imageAlt: "Jeunes plants de concombres dans un potager ensoleillé avec diverses étapes de croissance"
 categories: ["Planter votre potager"]
 authors: ["Pierre Penchot"]
-tags: ["concombres", "plantation"]
+tags: []
 draft: false
 ---
 

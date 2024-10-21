@@ -7,7 +7,7 @@ image: "/images/posts/drainage/arbremouiller.webp"
 imageAlt: "Arbre tombé et mouillé au-dessus d'un jardin."
 categories: ["Entretenir votre potager"]
 authors: ["Jade Orlanal"]
-tags: ["drainage", "sol"]
+tags: []
 draft: false
 ---
 

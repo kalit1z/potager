@@ -7,7 +7,7 @@ image: "/images/posts/courge/courgeenvrac.webp"
 imageAlt: "Récolte de diverses variétés de courges dans un jardin potager en automne"
 categories: ["recolter votre potager"]
 authors: ["Pierre Penchot"]
-tags: ["courges", "recolte"]
+tags: []
 draft: false
 ---
 

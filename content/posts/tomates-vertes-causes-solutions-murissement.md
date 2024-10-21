@@ -7,7 +7,7 @@ image: "/images/posts/tomates/tomatescherie.webp"
 imageAlt: "Gros plan sur des tomates vertes sur pied, illustrant le problème de mûrissement"
 categories: ["Entretenir votre potager"]
 authors: ["Jade Orlanal"]
-tags: ["tomates", "murissement"]
+tags: []
 draft: false
 ---
 

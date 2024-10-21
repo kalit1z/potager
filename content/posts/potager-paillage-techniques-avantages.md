@@ -7,7 +7,7 @@ image: "/images/posts/paillage/taspaillage.webp"
 imageAlt: "Potager bien entretenu illustrant les avantages du paillage pour un jardin productif"
 categories: ["Astuces du potager"]
 authors: ["Pierre Penchot"]
-tags: ["paillage", "sol vivant"]
+tags: []
 draft: false
 ---
 

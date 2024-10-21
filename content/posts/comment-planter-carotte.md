@@ -7,7 +7,7 @@ image: "/images/posts/carottes/carottes-potager.webp"
 imageAlt: "Rangées de jeunes plants de carottes dans un potager ensoleillé"
 categories: ["Planter votre potager"]
 authors: ["Pierre Penchot"]
-tags: ["carottes", "plantation"]
+tags: []
 draft: false
 ---
 

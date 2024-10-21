@@ -7,7 +7,7 @@ image: "/images/posts/ail-des-ours/ail-des-ours.webp"
 imageAlt: "Feuilles fraîches d'ail des ours dans une forêt printanière"
 categories: ["Astuces du potager"]
 authors: ["Pierre Penchot"]
-tags: ["ail des ours", "plantes comestibles"]
+tags: []
 draft: false
 ---
 

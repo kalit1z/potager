@@ -7,7 +7,7 @@ image: "/images/posts/tomates/milidou.webp"
 imageAlt: "Plant de tomate atteint de mildiou montrant des feuilles tachées et des fruits abîmés"
 categories: ["Astuces du potager"]
 authors: ["Pierre Penchot"]
-tags: ["mildiou", "tomates"]
+tags: []
 draft: false
 ---
 

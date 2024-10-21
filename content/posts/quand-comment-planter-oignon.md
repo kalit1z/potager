@@ -7,7 +7,7 @@ image: "/images/posts/oignions/plantation-oignons.webp"
 imageAlt: "Plantation d'oignons dans un potager bien entretenu avec diverses étapes de croissance"
 categories: ["Planter votre potager"]
 authors: ["Pierre Penchot"]
-tags: ["oignons", "plantation"]
+tags: []
 draft: false
 ---
 

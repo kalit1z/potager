@@ -7,7 +7,7 @@ image: "/images/posts/rhubarbe/expo.webp"
 imageAlt: "Tige de rhubarbe mûre dans un potager ensoleillé"
 categories: ["Recolter votre potager"]
 authors: ["Jade Orlanal"]
-tags: ["rhubarbe", "cueillette"]
+tags: []
 draft: false
 ---
 

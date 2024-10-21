@@ -7,7 +7,7 @@ image: "/images/posts/caisselegume/caisselegume1.webp"
 imageAlt: "Potager en septembre montrant une variété de légumes d'automne fraîchement plantés, illustrant les possibilités de culture pour cette période"
 categories: ["Planter votre potager"]
 authors: ["Pierre Penchot"]
-tags: ["plantation", "septembre"]
+tags: []
 draft: false
 ---
 Aujourd'hui, on va parler de septembre, ce mois où l'été tire sa révérence et où l'automne pointe le bout de son nez. C'est le moment ou jamais de préparer votre festin d'hiver ! Les jardins regorgent encore de légumes savoureux, tandis que les arbres fruitiers offrent leurs derniers trésors. L'air se rafraîchit doucement, invitant à ressortir les plats mijotés et les soupes réconfortantes. 

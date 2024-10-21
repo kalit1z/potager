@@ -7,7 +7,7 @@ image: "/images/posts/epinard/epinard.webp"
 imageAlt: "Jeunes pousses d'épinards émergeant du sol dans un potager bien entretenu"
 categories: ["planter votre potager"]
 authors: ["Pierre Penchot"]
-tags: ["semis", "epinards"]
+tags: []
 draft: false
 ---
 

@@ -3,6 +3,7 @@ import { plainify } from "@lib/utils/textConverter";
 import Footer from "@partials/Footer";
 import Header from "@partials/Header";
 import Head from "next/head";
+import Providers from "@layouts/partials/Providers";
 import { useRouter } from "next/router";
 
 const Base = ({

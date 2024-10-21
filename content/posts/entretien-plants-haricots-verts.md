@@ -7,7 +7,7 @@ image: "/images/posts/haricots-verts/haricots-verts.webp"
 imageAlt: "Plants de haricots verts en pleine croissance dans un potager ensoleillé"
 categories: ["Entretenir votre potager"]
 authors: ["Jade Orlanal"]
-tags: ["haricots verts"]
+tags: []
 draft: false
 ---
 

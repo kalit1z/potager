@@ -7,7 +7,7 @@ image: "/images/posts/rhubarbe/plantesrhubarbe.webp"
 imageAlt: "Plantation d'un jeune plant de rhubarbe dans un sol bien préparé"
 categories: ["Planter votre potager"]
 authors: ["Jade Orlanal"]
-tags: ["rhubarbe", "plantation"]
+tags: []
 draft: false
 ---
 

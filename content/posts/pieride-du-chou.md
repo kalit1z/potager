@@ -7,7 +7,7 @@ image: "/images/posts/pieride/zoom.webp"
 imageAlt: "Piéride du Chou (Pieris rapae) posée sur une feuille verte, papillon blanc aux ailes délicates"
 categories: ["Astuces du potager"]
 authors: ["Pierre Penchot"]
-tags: ["pieride du chou", "lutte naturelle"]
+tags: []
 draft: false
 ---
 

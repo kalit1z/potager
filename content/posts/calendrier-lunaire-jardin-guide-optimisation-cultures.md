@@ -7,7 +7,7 @@ image: "/images/posts/lunaire/lunenuit.webp"
 imageAlt: "Illustration d'un calendrier lunaire avec des symboles de jardinage, montrant les différentes phases de la lune et leur influence sur les cultures"
 categories: ["Astuces du potager"]
 authors: ["Pierre Penchot"]
-tags: ["calendrier lunaire",]
+tags: []
 draft: false
 ---
 

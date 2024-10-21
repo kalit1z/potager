@@ -7,7 +7,7 @@ image: "/images/posts/larve-hanneton/feuille-dessus.webp"
 imageAlt: "Gros plan sur une larve de hanneton dans le sol, montrant ses caractéristiques distinctives pour une identification facile"
 categories: ["Astuces du potager"]
 authors: ["Pierre Penchot"]
-tags: ["larves de hanneton", "protection des plantes"]
+tags: []
 draft: false
 ---
 

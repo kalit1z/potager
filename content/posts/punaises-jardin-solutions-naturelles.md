@@ -7,7 +7,7 @@ image: "/images/posts/insectes/punaisezoom.webp"
 imageAlt: "Gros plan sur une punaise verte sur une feuille de tomate, illustrant l'importance de l'identification pour la protection du potager"
 categories: ["Astuces du potager"]
 authors: ["Pierre Penchot"]
-tags: ["punaises", "protection des plantes"]
+tags: []
 draft: false
 ---
 

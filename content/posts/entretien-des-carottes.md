@@ -7,7 +7,7 @@ image: "/images/posts/carottes/tiencarotte.webp"
 imageAlt: "Rangée de carottes en pleine croissance dans un potager bien entretenu"
 categories: ["Entretenir votre potager"]
 authors: ["Jade Orlanal"]
-tags: ["carottes", "entretien"]
+tags: []
 draft: false
 ---
 

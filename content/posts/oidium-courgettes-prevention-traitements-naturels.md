@@ -7,7 +7,7 @@ image: "/images/posts/courgette/courgetteoidium.webp"
 imageAlt: "Feuilles de courgettes atteintes d'oïdium, montrant les caractéristiques taches blanches poudreuses"
 categories: ["Entretenir votre potager"]
 authors: ["Jade Orlanal"]
-tags: ["oidium", "traitements naturels"]
+tags: []
 draft: false
 ---
 

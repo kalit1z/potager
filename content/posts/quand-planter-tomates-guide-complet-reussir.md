@@ -7,7 +7,7 @@ image: "/images/posts/tomates/plantertomates.webp"
 imageAlt: "Jardinier plantant des plants de tomates dans un potager ensoleillé"
 categories: ["Planter votre potager"]
 authors: ["Pierre Penchot"]
-tags: ["tomates", "plantation"]
+tags: []
 draft: false
 ---
 

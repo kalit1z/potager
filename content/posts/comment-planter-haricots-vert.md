@@ -7,7 +7,7 @@ image: "/images/posts/haricots-verts/haricots-verts-plantation.webp"
 imageAlt: "Plantation de jeunes plants de haricots verts dans un potager ensoleillé"
 categories: ["Planter votre potager"]
 authors: ["Pierre Penchot"]
-tags: ["haricots verts"]
+tags: []
 draft: false
 ---
 

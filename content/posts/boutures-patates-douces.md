@@ -7,7 +7,7 @@ image: "/images/posts/patate-douce/miseenterrepatate.webp"
 imageAlt: "Boutures de patates douces en croissance, montrant de jeunes pousses vertes"
 categories: ["Planter votre potager"]
 authors: ["Jade Orlanal"]
-tags: ["patate douce", "bouturage", "multiplication"]
+tags: []
 draft: false
 ---
 

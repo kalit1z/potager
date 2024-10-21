@@ -7,7 +7,7 @@ image: "/images/posts/tomates/tasdetomates.webp"
 imageAlt: "Main cueillant une tomate mûre et rouge sur un plant dans un potager ensoleillé"
 categories: ["Recolter votre potager"]
 authors: ["Pierre Penchot"]
-tags: ["tomates", "cueillette"]
+tags: []
 draft: false
 ---
 
