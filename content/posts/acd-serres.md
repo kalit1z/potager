@@ -1,6 +1,6 @@
 ---
-title: "Découvrez les avantages des ACD Serres pour votre jardin"
-meta_title: "Découvrez les avantages des ACD Serres pour votre jardin"
+title: "Pourquoi choisir les ACD Serres pour optimiser votre jardin"
+meta_title: "Les atouts des ACD Serres pour un jardin performant"
 description: "Découvrez les ACD Serres : un choix optimal pour votre jardin. Connaissez leurs prix, caractéristiques et bienfaits pour une culture réussie."
 date: 2024-10-22
 image: "/images/posts/mass/acd_serres.webp"
