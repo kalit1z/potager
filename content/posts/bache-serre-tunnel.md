@@ -1,5 +1,5 @@
 ---
-title: "Tout sur la bâche serre tunnel : Guide pour un jardin florissant"
+title: "Tout sur la bâche serre tunnel : Tout ce qu'il faut savoir"
 meta_title: "Tout sur la bâche serre tunnel : Guide pour un jardin florissant"
 description: "Découvrez tout ce qu'il faut savoir sur la bâche serre tunnel pour un jardin productif et durable. Aménagement, arrosage et conseils pratiques inclus !"
 date: 2024-10-25
@@ -8,7 +8,7 @@ imageAlt: "Serre tunnel avec bâche pour un jardin productif et florissant"
 categories: ["Astuces du potager"]
 authors: ["Pierre Penchot"]
 tags: []
-draft: true
+draft: false
 ---
 
 Plonger dans l'univers des serres tunnels, c'est avant tout apprivoiser un espace où les plantes s'épanouissent dans des conditions optimales. La bâche serre tunnel est un élément crucial qui offre une protection contre les intempéries et garantit un microclimat propice à la croissance des végétaux. Que vous soyez un jardinier amateur ou un professionnel aguerri, comprendre comment aménager et optimiser votre serre tunnel peut transformer votre jardin en un véritable havre de paix verdoyant. Dans cet article complet, nous explorons en profondeur tous les aspects liés à la bâche serre tunnel, allant de son choix à son installation, en passant par les techniques de culture.

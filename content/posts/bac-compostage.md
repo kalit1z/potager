@@ -1,5 +1,5 @@
 ---
-title: "Guide Ultime du Bac Compostage : Transformez vos Déchets en Or"
+title: "Le compostage : Transformez vos déchets en ressource précieuse"
 meta_title: "Guide Ultime du Bac Compostage : Transformez vos Déchets en Or"
 description: "Découvrez comment le bac de compostage transforme vos déchets en ressource précieuse. Guide pratique pour tous niveaux."
 date: 2024-10-24
@@ -8,7 +8,7 @@ imageAlt: "Bac de compostage pour transformer les déchets en compost naturel"
 categories: ["Astuces du potager"]
 authors: ["Pierre Penchot"]
 tags: []
-draft: true
+draft: false
 ---
 
 
