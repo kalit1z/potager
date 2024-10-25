@@ -1,6 +1,6 @@
 ---
 title: "Besoin NPK Pomme de Terre : Guide Complet pour un Jardin Flourissant"
-meta_title: "Besoin NPK Pomme de Terre : Guide Complet pour un Jardin Flourissant"
+meta_title: "Besoin NPK Pomme de Terre : Guide pour optimiser votre culture"
 description: "Découvrez tout sur les besoins en NPK pour vos pommes de terre et les meilleures pratiques pour optimiser votre culture."
 date: 2024-10-26
 image: "/images/posts/mass/besoins-npk-des-cultures.webp"
@@ -8,7 +8,7 @@ imageAlt: "Besoins en NPK pour cultiver des pommes de terre dans votre potager"
 categories: ["Entretenir votre potager"]
 authors: ["Jade Orlanal"]
 tags: []
-draft: true
+draft: false
 ---
 
 Cultiver des pommes de terre est une aventure passionnante qui nécessite une compréhension approfondie de leurs besoins en nutriments. Parmi ces nutriments, le NPK (Azote, Phosphore, Potassium) joue un rôle essentiel pour favoriser une croissance saine et une récolte abondante. Si vous cherchez à optimiser votre jardin, vous êtes au bon endroit. Dans cet article, nous allons explorer les besoins en NPK des pommes de terre, les doses recommandées et comment bien fertiliser vos plants pour obtenir les meilleurs résultats. 
