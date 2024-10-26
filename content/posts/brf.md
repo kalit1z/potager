@@ -1,5 +1,5 @@
 ---
-title: "BRF : Transformez votre jardin avec ce paillage révolutionnaire"
+title: "BRF, un paillage innovant pour optimiser votre jardin."
 meta_title: "BRF : Transformez votre jardin avec ce paillage révolutionnaire"
 description: "Découvrez le BRF, un paillage innovant pour optimiser votre jardin et votre potager. Améliorez la santé de votre sol avec cette méthode durable."
 date: 2024-10-27
