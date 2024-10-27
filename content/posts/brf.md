@@ -8,7 +8,7 @@ imageAlt: "BRF : paillage naturel pour enrichir et protéger le sol du jardin"
 categories: ["Entretenir votre potager"]
 authors: ["Jade Orlanal"]
 tags: []
-draft: true
+draft: false
 ---
 
 Le jardinage est un art qui nécessite une attention particulière à divers éléments, notamment la santé du sol. Parmi les méthodes modernes qui révolutionnent la manière de cultiver, le Bois Raméal Fragmenté (BRF) s'impose comme un véritable atout pour le jardinier moderne. Ce matériau organique, issu du broyage de jeunes rameaux, offre des avantages inédits pour nourrir, améliorer et protéger votre sol. Voyons comment intégrer ce paillage innovant dans votre potager et transformer votre jardin en un écosystème florissant.

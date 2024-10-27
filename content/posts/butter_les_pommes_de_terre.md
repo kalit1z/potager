@@ -8,7 +8,7 @@ imageAlt: "Technique de buttage des pommes de terre pour une meilleure récolte"
 categories: ["Entretenir votre potager"]
 authors: ["Jade Orlanal"]
 tags: []
-draft: true
+draft: false
 ---
 
 Les pommes de terre sont un incontournable des potagers, mais leur culture requiert des techniques spécifiques pour garantir une récolte abondante. Le buttage, ou "butter les pommes de terre", est l'une de ces techniques vitales. Ce procédé, souvent méconnu des jardiniers amateurs, joue un rôle crucial dans le développement des tubercules et la santé des plants. Dans cet article, nous explorerons en profondeur comment butter les pommes de terre, pourquoi c'est important, et les meilleures pratiques à adopter.
