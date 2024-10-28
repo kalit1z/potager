@@ -8,7 +8,7 @@ imageAlt: "C/N : équilibre entre carbone et azote pour un sol fertile"
 categories: ["Entretenir votre potager"]
 authors: ["Jade Orlanal"]
 tags: []
-draft: true
+draft: false
 ---
 
 Le jardinage est bien plus qu'un simple passe-temps; il s'agit d'une véritable science qui combine diversité biologique, nutrition des plantes et un équilibre subtil entre les éléments. Parmi ces éléments, le rapport C/n (C$N$) est un indicateur fondamental pour les jardiniers souhaitant maximiser la santé de leur sol et la productivité de leurs cultures. Cet article explore en profondeur les secrets du rapport C/n, son impact sur votre jardin, et vous offre des conseils pratiques pour enrichir vos cultures de manière durable.
