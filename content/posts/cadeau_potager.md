@@ -8,7 +8,7 @@ imageAlt: "Idées de cadeaux pour jardiniers : outils et accessoires de potager"
 categories: ["Astuces du potager"]
 authors: ["Pierre Penchot"]
 tags: []
-draft: true
+draft: false
 ---
 
 Vous cherchez le cadeau parfait pour un passionné de jardinage ? Que ce soit pour un anniversaire, une fête ou simplement pour faire plaisir, offrir un cadeau lié au potager peut être une excellente idée. La tendance actuelle vers une alimentation saine et locale a dopé l’intérêt pour le jardinage et les potagers personnels. De plus, cultiver ses propres légumes et herbes aromatiques est une activité gratifiante et très tendance.
