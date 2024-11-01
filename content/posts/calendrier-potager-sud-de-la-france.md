@@ -1,6 +1,6 @@
 ---
 title: "Calendrier potager sud de la France : vos légumes au bon moment"
-meta_title: "Calendrier potager sud de la France : vos légumes au bon moment"
+meta_title: "Sud de la France : Plantez vos Légumes au Bon Moment avec ce Calendrier Potager"
 description: "Découvrez le calendrier potager pour le sud de la France et apprenez à planter, entretenir et récolter vos légumes au bon moment."
 date: 2024-11-02
 image: "/images/posts/mass/calendrier_potager_sud_de_la_france.webp"
@@ -8,7 +8,7 @@ imageAlt: "Calendrier potager pour le sud de la France : semis et récoltes"
 categories: ["Planter votre potager"]
 authors: ["Pierre Penchot"]
 tags: []
-draft: true
+draft: false
 ---
 
 Le potager, véritable source de plaisir et de satisfaction, est un projet à la fois passionnant et gratifiant. Pour ceux qui résident dans le sud de la France, le climat, bien que propice, est également complexe. La clé d'un potager florissant réside dans la synchronisation des semis, des plantations et des récoltes avec les saisons. Ainsi, un calendrier potager bien élaboré devient l'outil indispensable pour les jardiniers passionnés de cette belle région. Cet article vous guidera à travers les différentes étapes du calendrier potager, vous proposant des conseils pratiques pour optimiser votre jardin.

@@ -1,5 +1,5 @@
 ---
-title: "Idées de Cadeaux Potager pour Éveiller le Jardinier en Vous"
+title: "Inspirez le Jardinier en Vous avec Ces Idées de Cadeaux Potager"
 meta_title: "Idées de Cadeaux Potager pour Éveiller le Jardinier en Vous"
 description: "Découvrez des idées de cadeaux potager qui raviront les jardiniers de tous niveaux. Inspirez-vous pour une saison de culture réussie."
 date: 2024-10-30

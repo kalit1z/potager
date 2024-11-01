@@ -1,5 +1,5 @@
 ---
-title: "Comment butter les pommes de terre : Guide pour jardiniers avisés"
+title: "Guide complet pour butter vos pommes de terre efficacement"
 meta_title: "Comment butter les pommes de terre : Guide pour jardiniers avisés"
 description: "Découvrez notre guide complet sur le buttage des pommes de terre, ses bienfaits et techniques pour un potager prospère."
 date: 2024-10-28

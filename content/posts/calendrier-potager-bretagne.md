@@ -1,6 +1,6 @@
 ---
 title: "Le Calendrier Potager Bretagne : Guide de Jardinage Essentiel"
-meta_title: "Le Calendrier Potager Bretagne : Guide de Jardinage Essentiel"
+meta_title: "Calendrier Potager Bretagne : Tous les Conseils pour un Potager Réussi"
 description: "Découvrez le calendrier potager Bretagne pour maximiser vos récoltes grâce à des conseils adaptés à la région."
 date: 2024-11-01
 image: "/images/posts/mass/calendrier_potager_bretagne.webp"
@@ -8,7 +8,7 @@ imageAlt: "Calendrier potager Bretagne : guide de jardinage régional"
 categories: ["Planter votre potager"]
 authors: ["Pierre Penchot"]
 tags: []
-draft: true
+draft: false
 ---
 
 Le jardinage est une passion qui unit de nombreuses personnes à travers la Bretagne, un territoire à la beauté sauvage et à la biodiversité exceptionnelle. Jardiner en Bretagne, c'est non seulement se plonger dans un univers végétal luxuriant, mais aussi s'adapter aux particularités climatiques de cette region. Pour réussir votre potager, un calendrier potager est indispensable. Cet outil vous guidera dans le choix des plantations en fonction des saisons, des températures et du sol. Découvrez comment planifier votre potager avec succès et profiter pleinement des richesses que la Bretagne a à offrir.

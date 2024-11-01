@@ -1,5 +1,5 @@
 ---
-title: "Les Secrets du C$n : Boostez Votre Jardin Naturellement !"
+title: "Les Secrets du C$n pour un Jardin Plus Productif et Naturel !"
 meta_title: "Les Secrets du C$n : Boostez Votre Jardin Naturellement !"
 description: "Découvrez tout sur le C$n, l'azote et les matières organiques pour un jardin florissant. Conseils pratiques et solutions pour optimiser votre potager."
 date: 2024-10-29
