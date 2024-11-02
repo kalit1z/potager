@@ -1,5 +1,5 @@
 ---
-title: "Calendrier Semis : Guide Pratique pour un Jardin Florissant"
+title: "Calendrier des semis pour un potager florissant en 2025"
 meta_title: "Calendrier Semis : Guide Pratique pour un Jardin Florissant"
 description: "Découvrez notre guide complet sur le calendrier des semis pour un potager florissant en 2025. Optimisez vos plantations et récoltes."
 date: 2024-11-03
@@ -8,7 +8,7 @@ imageAlt: "Calendrier des semis : guide pour un jardin florissant en 2025"
 categories: ["Planter votre potager"]
 authors: ["Pierre Penchot"]
 tags: []
-draft: true
+draft: false
 ---
 
 Le jardinage est bien plus qu'une simple activité : c'est un art qui nécessite un savoir-faire, de la patience, et surtout, une bonne planification. Un « calendrier semis » efficace peut transformer votre potager en un véritable havre de verdure, en vous aidant à maximiser vos récoltes grâce à une planification stratégique des semences. Que vous soyez novice ou jardinier aguerri, disposer d'un calendrier de semis bien pensé est crucial pour réussir votre potager. 2025 s'annonce comme une année prometteuse pour le jardinage, et avoir en main le bon almanach est essentiel. Examinons les divers aspects d’un calendrier semis et comment il peut enrichir vos expériences au jardin.
