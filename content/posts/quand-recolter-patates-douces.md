@@ -37,6 +37,8 @@ Il est préférable de récolter les patates douces avant les premières gelées
 
 Bien que moins fiable que les autres signes, la floraison des plants de patates douces peut indiquer que la récolte approche. Cependant, toutes les variétés ne fleurissent pas de manière égale, donc ne vous fiez pas uniquement à ce signe.
 
+<img src="/images/posts/patate-douce/patatesdoucerouge.webp" alt="Panier rempli de framboises fraîches, prêtes à être dégustées ou utilisées dans des recettes." width="500" height="300" style={{ display: 'block', margin: 'auto', borderRadius: '10px' }} /> 
+
 ## Comment récolter la patate douce : Techniques pour une récolte réussie
 
 Une fois que vous avez déterminé que vos patates douces sont prêtes à être récoltées, il est important de suivre les bonnes techniques pour assurer une récolte optimale.

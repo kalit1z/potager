@@ -118,19 +118,19 @@ De nombreux jardiniers permaculteurs témoignent de l'efficacité de la grelinet
 
 ## FAQ sur la grelinette
 
-### 1. Quelle est la différence entre la grelinette et la fourche ?
+### Quelle est la différence entre la grelinette et la fourche ?
 La grelinette est conçue spécifiquement pour aerer le sol sans le retourner, alors que la fourche peut déplacer la terre ou casser des mottes.
 
-### 2. Quand dois-je utiliser la grelinette ?
+### Quand dois-je utiliser la grelinette ?
 Il est recommandé de l'utiliser au début de la saison de jardinage et après chaque récolte pour maintenir un bon état du sol.
 
-### 3. Peut-on utiliser la grelinette sur tous les types de sol ?
+### Peut-on utiliser la grelinette sur tous les types de sol ?
 Oui, mais il est préférable d'éviter les sols trop humides ou trop durs pour éviter d'endommager l'outil.
 
-### 4. Quelle est la durée de vie d'une grelinette ?
+### Quelle est la durée de vie d'une grelinette ?
 Une grelinette bien entretenue peut durer plusieurs années, voire des décennies, surtout si elle est en métal forgé.
 
-### 5. Où trouver des grelinettes d'occasion ?
+### Où trouver des grelinettes d'occasion ?
 Vous pouvez consulter des sites comme Le Bon Coin ou des groupes de jardinage sur les réseaux sociaux pour dénicher des modèles d'occasion.
 
 ## Conclusion récapitulative et incitative

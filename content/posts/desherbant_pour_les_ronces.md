@@ -138,19 +138,19 @@ Choisir le bon désherbant pour un potager spécifique peut faire toute la diff�
 
 ## FAQ
 
-### 1. Comment désherber un potager naturellement ?
+### Comment désherber un potager naturellement ?
 Utilisez des techniques comme le désherbage manuel, le paillage et des solutions comme le vinaigre pour cibler les mauvaises herbes sans produits chimiques nocifs.
 
-### 2. Quelle est la meilleure méthode pour éliminer les ronces ?
+### Quelle est la meilleure méthode pour éliminer les ronces ?
 Les ronces peuvent être combattues efficacement avec des désherbants ciblés ou des méthodes mécaniques comme la coupe répétitive et le retrait de racines.
 
-### 3. Faut-il désherber avant de poser une toile de paillage ?
+### Faut-il désherber avant de poser une toile de paillage ?
 Oui, désherber avant le paillage est crucial pour éliminer les graines de mauvaises herbes qui pourraient germer sous la couverture.
 
-### 4. Comment se débarrasser du chiendent dans ma pelouse ?
+### Comment se débarrasser du chiendent dans ma pelouse ?
 Utilisez des désherbants spécifiques, une scarification et un entretien régulier pour affaiblir et éliminer le chiendent de votre pelouse.
 
-### 5. Quels sont les matériaux les plus efficaces pour le paillage ?
+### Quels sont les matériaux les plus efficaces pour le paillage ?
 Les meilleurs matériaux de paillage incluent le carton, les tontes de gazon, et les laminés organiques, chacun ayant ses avantages spécifiques en termes de contrôle des mauvaises herbes.
 
 ## Conclusion

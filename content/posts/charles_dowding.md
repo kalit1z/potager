@@ -94,19 +94,19 @@ Pour maintenir la santé d'un jardin sans labour, il est crucial de suivre certa
 
 ## FAQ
 
-### 1. Qu'est-ce que la méthode no-dig de Charles Dowding ?
+### Qu'est-ce que la méthode no-dig de Charles Dowding ?
 La méthode no-dig, ou sans labour, consiste à cultiver sans retourner le sol, préservant ainsi la vie microbienne et améliorant la santé du sol.
 
-### 2. Où puis-je trouver les livres de Charles Dowding en français ?
+### Où puis-je trouver les livres de Charles Dowding en français ?
 Les ouvrages de Charles Dowding sont disponibles dans les librairies, ainsi que sur des plateformes de vente en ligne comme Amazon.
 
-### 3. Les techniques de Dowding sont-elles adaptées aux petits jardins urbains ?
+### Les techniques de Dowding sont-elles adaptées aux petits jardins urbains ?
 Oui, ses techniques sont parfaitement adaptées aux petits espaces, permettant d'optimiser chaque mètre carré cultivé.
 
-### 4. Comment débuter en jardinage sans labour ?
+### Comment débuter en jardinage sans labour ?
 Commencez par sélectionner un emplacement et appliquez une couche de compost ou de paillis, puis plantez directement.
 
-### 5. Quels sont les avantages environnementaux de la méthode no-dig ?
+### Quels sont les avantages environnementaux de la méthode no-dig ?
 Cette méthode aide à préserver la biodiversité, réduit l'érosion et améliore la qualité de l'eau en évitant le lessivage des nutriments.
 
 ## Conclusion

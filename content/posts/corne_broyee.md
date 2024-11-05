@@ -135,19 +135,19 @@ Des jardiniers ayant utilisé la corne broyée pour des cultures de fruits ont o
 ## FAQ sur la corne broyée
 
 ### Q1 : À quelle fréquence dois-je mettre de la corne broyée ?
-R : Une application printanière et estivale est recommandée, avec des retouches en automne si nécessaire.
+Une application printanière et estivale est recommandée, avec des retouches en automne si nécessaire.
 
 ### Q2 : La corne broyée est-elle sûre pour toutes les plantes ?
-R : Oui, mais certaines plantes moins gourmandes en nutriments pourraient ne pas avoir besoin d'un apport supplémentaire.
+Oui, mais certaines plantes moins gourmandes en nutriments pourraient ne pas avoir besoin d'un apport supplémentaire.
 
 ### Q3 : La corne broyée est-elle soluble dans l'eau ?
-R : Non, la corne broyée est un engrais à libération lente et ne se dissout pas comme les engrais solubles.
+Non, la corne broyée est un engrais à libération lente et ne se dissout pas comme les engrais solubles.
 
 ### Q4 : Puis-je utiliser la corne broyée dans une serre ?
-R : Oui, la corne broyée est appropriée pour une utilisation en serre, augmentant la fertilité du sol.
+Oui, la corne broyée est appropriée pour une utilisation en serre, augmentant la fertilité du sol.
 
 ### Q5 : Quel est le meilleur moment pour appliquer la corne broyée ?
-R : Au printemps, avant la plantation, et en été pour soutenir la croissance active.
+Au printemps, avant la plantation, et en été pour soutenir la croissance active.
 
 ## En conclusion
 

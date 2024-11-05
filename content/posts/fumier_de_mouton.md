@@ -149,23 +149,23 @@ Le caca de mouton peut sembler peu engageant, mais il est incroyablement utile d
 
 ## FAQ
 
-### 1. Peut-on utiliser le fumier de mouton directement dans le jardin ?
+### Peut-on utiliser le fumier de mouton directement dans le jardin ?
 
 Non, il est préférable de le composter avant utilisation pour éviter les risques de brûlure et de pathogènes.
 
-### 2. Quel est le prix du fumier de mouton en sac ?
+### Quel est le prix du fumier de mouton en sac ?
 
 Le prix varie entre 5 et 10 euros le sac, selon la qualité et le fournisseur.
 
-### 3. Combien de m² pour un mouton ?
+### Combien de m² pour un mouton ?
 
 Un mouton nécessite environ 10 m² d'espace pour se déplacer confortablement dans un système d'élevage.
 
-### 4. Quelles plantes sont les meilleures avec du fumier de mouton ?
+### Quelles plantes sont les meilleures avec du fumier de mouton ?
 
 Les tomates, carottes et fleurs sauvages se développent très bien avec du fumier de mouton.
 
-### 5. Quelle est la différence entre une brebis et un mouton ?
+### Quelle est la différence entre une brebis et un mouton ?
 
 La principale différence est que la brebis est une femelle mature, souvent utilisée pour la reproduction, tandis que le mouton peut se référer aux mâles et femelles.
 

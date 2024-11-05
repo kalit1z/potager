@@ -86,19 +86,19 @@ Les **graines reproductibles** sont un excellent choix pour les jardiniers souci
 
 ## FAQ : Questions Fréquemment Posées
 
-### 1. Quelles sont les meilleures graines pour commencer un potager ?
+### Quelles sont les meilleures graines pour commencer un potager ?
 Les tomates, courgettes et salades sont parmi les plus simples à cultiver pour les débutants.
 
-### 2. Comment conserver mes semences ?
+### Comment conserver mes semences ?
 Il est recommandé de garder les graines dans un endroit frais et sec, dans des sacs en papier ou des contenants hermétiques.
 
-### 3. Dans quel sens planter les graines de courgettes ?
+### Dans quel sens planter les graines de courgettes ?
 Les graines de courgettes doivent être plantées avec la partie pointue vers le bas, à une profondeur d’environ 2 à 3 centimètres.
 
-### 4. Où acheter des graines de légumes anciennes ?
+### Où acheter des graines de légumes anciennes ?
 Les **Grains de mémoire** et **Le Comptoir des Graines** sont d’excellentes ressources pour trouver des graines anciennes.
 
-### 5. Existe-t-il des alternatives aux graines commerciales ?
+### Existe-t-il des alternatives aux graines commerciales ?
 Oui, vous pouvez échanger des graines avec d'autres jardiniers ou obtenir des graines de variétés anciennes lors d'événements de jardinage communautaire.
 
 ## Conclusion

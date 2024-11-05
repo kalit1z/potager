@@ -8,7 +8,7 @@ imageAlt: "Chenilles vertes : identification et contrôle au jardin"
 categories: ["Entretenir votre potager"]
 authors: ["Jade Orlanal"]
 tags: []
-draft: true
+draft: false
 ---
 
 Les chenilles vertes, notamment celles qui affectionnent particulièrement les choux, représentent un véritable défi pour les jardiniers amateurs et professionnels. Leur présence peut causer des dommages considérables aux cultures, rendant essentiel la compréhension de ces nuisibles ainsi que des méthodes efficaces pour les contrôler. Dans cet article, nous allons explorer en profondeur le monde des chenilles dans les choux, comment les identifier, les traiter de manière naturelle et finalement, préserver la santé de votre potager.
@@ -17,7 +17,7 @@ Les chenilles vertes, notamment celles qui affectionnent particulièrement les c
 
 ### Qu'est-ce que les chenilles dans les choux ?
 
-Les chenilles dans les choux font principalement référence aux larves de la piéride du chou, un papillon qui pond ses œufs sur les feuilles de choux. Ces petites créatures se cachent souvent sous les feuilles, d'où leur identification peut devenir un défi.
+Les chenilles dans les choux font principalement référence aux [larves](larves-hanneton-solutions-naturelles) de la piéride du chou, un papillon qui pond ses œufs sur les feuilles de choux. Ces petites créatures se cachent souvent sous les feuilles, d'où leur identification peut devenir un défi.
 
 ### Impact sur les cultures
 
@@ -99,23 +99,23 @@ Différentes chenilles nécessitent différents traitements, notamment la pyrale
 
 ## FAQ sur les chenilles vertes
 
-### 1. Comment traiter les chenilles des choux ?
+### Comment traiter les chenilles des choux ?
 
 Utilisez des méthodes naturelles telles que le vinaigre blanc ou le savon noir, et inspectez régulièrement votre jardin pour détecter leur présence.
 
-### 2. Que faire si j’ai une grande infestation de chenilles ?
+### Que faire si j’ai une grande infestation de chenilles ?
 
 Dans le cas d'une infestation importante, envisagez d'utiliser des insecticides biologiques ou de faire appel à des prédateurs naturels comme les oiseaux.
 
-### 3. Les chenilles sont-elles dangereuses pour les humains ?
+### Les chenilles sont-elles dangereuses pour les humains ?
 
 En général, les chenilles ne représentent pas un danger direct pour les humains, mais certaines peuvent provoquer des irritations cutanées.
 
-### 4. À quoi ressemblent les œufs de chenille ?
+### À quoi ressemblent les œufs de chenille ?
 
 Les œufs de chenille sont souvent de petites sphères ou cylindres de couleur jaune ou verte, pondus à proximité des feuilles.
 
-### 5. Quelles plantes attirent les prédateurs des chenilles ?
+### Quelles plantes attirent les prédateurs des chenilles ?
 
 Certaines fleurs comme les soucis ou les zinnias attirent les insectes bénéfiques qui peuvent aider à contrôler les populations de chenilles.
 

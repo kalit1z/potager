@@ -84,7 +84,7 @@ La préparation du sol est une étape cruciale souvent négligée. Un sol bien p
 
 Il existe plusieurs façons de planter les concombres, chacune avec ses avantages et ses défis. Le choix dépendra de votre expérience, de votre patience et de vos objectifs de culture.
 
-### 1. Semis Direct : Pour les Patients et les Climats Cléments
+### Semis Direct : Pour les Patients et les Climats Cléments
 
 - **Quand** : Lorsque le sol est suffisamment réchauffé et que tout risque de gel est écarté
 - **Procédure de semis** :
@@ -100,7 +100,7 @@ Il existe plusieurs façons de planter les concombres, chacune avec ses avantage
   - Risque plus élevé de prédation par les insectes ou les oiseaux.
   - Croissance plus lente au début par rapport aux plants transplantés.
 
-### 2. Transplantation de Plants : Le Compromis Idéal
+### Transplantation de Plants : Le Compromis Idéal
 
 - **Quand** : 3-4 semaines après le semis en intérieur, lorsque les plants ont 2-3 vraies feuilles
 - **Procédure de transplantation** :
@@ -116,7 +116,7 @@ Il existe plusieurs façons de planter les concombres, chacune avec ses avantage
   - Nécessite plus de travail et de planification.
   - Risque de choc à la transplantation si mal gérée.
 
-### 3. Culture en Conteneurs : Solution pour Petits Espaces
+### Culture en Conteneurs : Solution pour Petits Espaces
 
 - **Idéal pour** : Balcons, terrasses, petits jardins urbains
 - **Taille du pot** : Minimum 40 cm de profondeur et de diamètre, plus grand si possible

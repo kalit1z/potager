@@ -146,19 +146,19 @@ Utiliser du fumier dans votre jardin peut vraiment transformer la santé du sol 
 
 ## FAQ sur l'utilisation du fumier dans le jardin
 
-### 1. Peut-on mettre du fumier de cheval frais dans le jardin ?
+### Peut-on mettre du fumier de cheval frais dans le jardin ?
 Non, il est conseillé de compostez le fumier de cheval avant de l'incorporer dans le jardin pour éviter les brûlures des racines.
 
-### 2. Quand mettre du fumier dans le jardin ?
+### Quand mettre du fumier dans le jardin ?
 Le meilleur moment est en automne ou au début du printemps, avant la plantation.
 
-### 3. Quelle quantité de fumier de vache au m² ?
+### Quelle quantité de fumier de vache au m² ?
 En général, il est recommandé d'utiliser environ 2 à 3 kg de fumier par m².
 
-### 4. Quel est le prix du fumier bovin ?
+### Quel est le prix du fumier bovin ?
 Le prix du fumier bovin peut varier entre 5 et 15 euros le mètre cube, selon la région et la disponibilité.
 
-### 5. Comment composter du fumier ?
+### Comment composter du fumier ?
 Mélangez le fumier avec d'autres matières organiques, aérez régulièrement et surveillez l'humidité pour un meilleur résultat.
 
 ## En résumé, pourquoi intégrer une fumière dans votre jardin ?

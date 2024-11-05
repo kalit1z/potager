@@ -17,19 +17,19 @@ Créer un potager en pleine terre est l'une des activités les plus gratifiantes
 
 Planter un potager en pleine terre nécessite une certaine réflexion sur le choix des cultures. La sélection des plantations peut être influencée par plusieurs facteurs, tels que la saison, le climat, et même la qualité du sol. 
 
-### 1. Les cultures de base
+### Les cultures de base
 
 - **Tomates** : Excellentes pour la plupart des jardins, les tomates sont faciles à cultiver et très productives.
 - **Carottes** : Elles se développent bien dans un sol meuble et offrent un excellent rendement.
 - **Courgettes** : Très prolifiques, elles se plaisent dans de nombreux types de sols.
 
-### 2. Les herbes aromatiques
+### Les herbes aromatiques
 
 - **Basilic** : Parfait pour les salades et les plats italiens, il s'intègre bien dans un potager.
 - **Romarin** : Plantez-le en pleine terre pour profiter de son parfum et de ses vertus culinaires.
 - **Persil** : Deux types existent : le frisé et le plat, chacun apportant une saveur unique.
 
-### 3. Les légumes feuilles
+### Les légumes feuilles
 
 - **Laitue** : Idéale pour l'espace salade potager, elle se sème facilement et est récoltée rapidement.
 - **Choux** : Ils viennent en différentes variétés et sont riches en nutriments.
@@ -39,18 +39,18 @@ Planter un potager en pleine terre nécessite une certaine réflexion sur le cho
 
 Le jardinage en potager haute, souvent apprécié pour son ergonomie, permet de cultiver ses légumes sans avoir à se baisser. 
 
-### 1. Avantages du potager haute
+### Avantages du potager haute
 
 - **Accessibilité** : Idéal pour les personnes à mobilité réduite, il réduit la fatigue physique.
 - **Contrôle de la qualité du sol** : Cela permet de choisir le substrat idéal pour chaque plante.
 - **Esthétique** : Un potager en hauteur est souvent plus joli et bien ordonné.
 
-### 2. Choisir le bon emplacement
+### Choisir le bon emplacement
 
 - **Ensoleillement** : Plantez votre potager haute dans un endroit qui reçoit au moins 6 à 8 heures de soleil par jour.
 - **Protection contre le vent** : Planifiez-le près d'une haie ou d'une clôture pour le protéger.
 
-### 3. Les plantes adaptées
+### Les plantes adaptées
 
 - **Fraises** : Parfaites pour les potagers hauts, elles se récoltent facilement.
 - **Herbes** : Comme le romarin et le basilic, elles aiment bien les plates-bandes surélevées.
@@ -60,17 +60,17 @@ Le jardinage en potager haute, souvent apprécié pour son ergonomie, permet de 
 
 Semer dès janvier peut sembler prématuré, mais certains légumes et herbes peuvent être préparés tôt pour un potager florissant.
 
-### 1. Semis en intérieur
+### Semis en intérieur
 
 - **Tomates** : À semer sous serre ou dans un endroit lumineux, elles bénéficieront d’un bon démarrage.
 - **Poivrons** : Bien que plus lents à germiner, ils doivent commencer le plus tôt possible pour être prêts au printemps.
 
-### 2. Semis sous abris
+### Semis sous abris
 
 - **Salades d’hiver** : En plein hiver, des variétés comme la laitue Rouge de Méjico peuvent être semées sous une serre.
 - **Choux** : Le chou frisé se sème aussi bien en janvier que dans d'autres mois de l'année.
 
-### 3. Organisation du calendrier
+### Organisation du calendrier
 
 - **Planifiez votre calendrier potager** : Notez les dates de semis pour chaque variété, afin de bien anticiper les récoltes.
 
@@ -78,7 +78,7 @@ Semer dès janvier peut sembler prématuré, mais certains légumes et herbes pe
 
 Une bonne organisation est la clé d'un jardin florissant. Savoir quand planter est essentiel pour maximiser la production de votre potager en pleine terre.
 
-### 1. Calendrier de plantation saisonnier
+### Calendrier de plantation saisonnier
 
 | Mois         | Semis recommandés                | Plantes à repiquer           |
 |--------------|----------------------------------|------------------------------|
@@ -87,12 +87,12 @@ Une bonne organisation est la clé d'un jardin florissant. Savoir quand planter 
 | Juin         | Haricots, courgettes             | -                            |
 | Novembre     | Ail, oignons                     | -                            |
 
-### 2. Préparer le sol 
+### Préparer le sol 
 
 - **Analysez votre sol** : Faire des tests de pH pour déterminer si des amendements sont nécessaires.
 - **Ajouter des matières organiques** : Compost et fumier aideront à enrichir votre terre.
 
-### 3. Toucher final
+### Toucher final
 
 - **Arrosage intelligent** : Privilégiez un arrosage frais et régulier, surtout en période de croissance.
 - **Paillage** : Pour retenir l'humidité et réduire les mauvaises herbes, le paillage est essentiel.
@@ -101,17 +101,17 @@ Une bonne organisation est la clé d'un jardin florissant. Savoir quand planter 
 
 Inspiré par "Le jardin d'Alekil", ce jardin stylistique allie esthétique et productivité. 
 
-### 1. Philosophie du jardin d'Alekil
+### Philosophie du jardin d'Alekil
 
 - **Biodiversité** : Le jardin d’Alekil prône un équilibre naturel en intégrant des plantes compagnes.
 - **Design écologique** : Optimisez l’espace en incluant des plantes qui s'entraident pour la croissance.
 
-### 2. Espaces utiles
+### Espaces utiles
 
 - **Espace salade potager** : Créez un coin dédié à la culture des salades variées pour assurer des récoltes continues.
 - **Coin herbes aromatiques** : Regroupement des herbes comme le basilic, le persil et le romarin.
 
-### 3. Entretien et observation 
+### Entretien et observation 
 
 - **Suivi des cultures** : Notez l'évolution de vos semis et ajustez les pratiques de jardinage au fur et à mesure.
 - **Observation de la faune** : Un jardin floral attire les pollinisateurs, favorisant vos récoltes.
@@ -120,17 +120,17 @@ Inspiré par "Le jardin d'Alekil", ce jardin stylistique allie esthétique et pr
 
 Cultiver un potager en zone de montagne présente des défis uniques. 
 
-### 1. Conditions climatiques
+### Conditions climatiques
 
 - **Froid et gel** : Le jardinage en montagne nécessite une attention particulière aux dates de gel.
 - **Altitudes élevées** : À 800 mètres, les températures peuvent être radicalement différentes.
 
-### 2. Choix de cultures adaptées
+### Choix de cultures adaptées
 
 - **Pommes de terre** : Elles sont robustes et peuvent s'épanouir même dans des sols plus frais.
 - **Légumes-racines** : Carottes et betteraves s’adaptent bien aux climats plus froids.
 
-### 3. Techniques de culture
+### Techniques de culture
 
 - **Utilisation des serres** : Une serre peut étendre la saison de croissance et protéger vos plantes du froid.
 - **Terrasses et buttes** : Évitez l'érosion et créez des microclimats favorables pour vos légumes.
@@ -139,17 +139,17 @@ Cultiver un potager en zone de montagne présente des défis uniques.
 
 Le romarin est une herbe aromatique populaire qui s'épanouit merveilleusement en pleine terre. 
 
-### 1. Choisir le bon emplacement
+### Choisir le bon emplacement
 
 - **Ensoleillement** : Le romarin nécessite beaucoup de soleil, choisissez un emplacement bien ensoleillé.
 - **Drainage** : Il ne tolère pas l’eau stagnante; un sol bien drainé est crucial.
 
-### 2. Conditions de culture
+### Conditions de culture
 
 - **Sol** : Assurez-vous que le sol est légèrement acide à neutre, et améliorez son drainage si nécessaire.
 - **Espacement** : Plantez les pieds de romarin à environ 30 à 45 cm de distance pour favoriser leur croissance.
 
-### 3. Entretien du romarin
+### Entretien du romarin
 
 - **Arrosage** : Modéré; veillez à ne pas trop arroser en hiver.
 - **Taille** : Un entretien régulier encourage une meilleure croissance et une meilleure récolte.
@@ -160,17 +160,17 @@ Le romarin est une herbe aromatique populaire qui s'épanouit merveilleusement e
 
 Le mois de novembre est souvent perçu comme une période de préparation et d'entretien de son potager.
 
-### 1. Semis tardifs
+### Semis tardifs
 
 - **Ail**: Préféré pour sa rusticité, il se plante en novembre pour une récolte au printemps.
 - **Oignons**: De variétés spécifiques, ils peuvent être semés afin de profiter des premiers rayons de soleil.
 
-### 2. Préparation pour l’hiver
+### Préparation pour l’hiver
 
 - **Couvert végétal** : Pensez à ajouter une couche de paillis pour protéger vos plantations.
 - **Entretien du sol** : Un bon amendement au compost aidera à enrichir le sol.
 
-### 3. Planification pour le printemps 
+### Planification pour le printemps 
 
 - **Dessinez un plan** : Anticipez ce que vous souhaitez planter au printemps pour bien préparer le terrain.
 
@@ -178,17 +178,17 @@ Le mois de novembre est souvent perçu comme une période de préparation et d'e
 
 Il est crucial de bien planifier le démarrage de son potager.
 
-### 1. Dates de plantation
+### Dates de plantation
 
 - **Printemps précoce** : Les semis peuvent débuter dès février/mars, selon votre région.
 - **Planter selon le climat** : Chaque région aura son calendrier, un coup d'œil sur le calendrier méditerranéen peut aider.
 
-### 2. Calendrier potager sud de la France
+### Calendrier potager sud de la France
 
 - **Climat méditerranéen** : Tenez compte des périodes de chaleur pour semer les légumes adaptés.
 - **Températures** : Notez les températures pour ajuster les semis selon les besoins des plantes.
 
-### 3. Observation du jardin
+### Observation du jardin
 
 - **Vérification régulière** : Surveillez l’état de vos cultures, et ajustez en fonction de la météo.
 
@@ -196,17 +196,17 @@ Il est crucial de bien planifier le démarrage de son potager.
 
 Le maïs est une culture facile à réussir si plantée au bon moment.
 
-### 1. Préparation de l’emplacement
+### Préparation de l’emplacement
 
 - **Chaleur** : Le maïs aime la chaleur; attendez que les sols atteignent au moins 15 °C avant de semer.
 - **Sol riche** : Amender avec du compost ou du fumier pour assurer un bon développement de la plante.
 
-### 2. Semer
+### Semer
 
 - **Technique de semis** : Semer en lignes à 50 cm d'espacement, en plaçant 2 à 3 graines tous les 20 cm.
 - **Arrosage**: Un arrosage régulier est essentiel pendant la phase germinative.
 
-### 3. Suivi des cultures
+### Suivi des cultures
 
 - **Désherbage** : Gardez le sol libre de mauvaises herbes pour mieux soutenir la croissance.
 - **Support** : Le maïs grandissant nécessite souvent du support naturel.
@@ -215,17 +215,17 @@ Le maïs est une culture facile à réussir si plantée au bon moment.
 
 La plantation de votre jardin est la phase culminante du processus de jardinage.
 
-### 1. Chronologie de plantation
+### Chronologie de plantation
 
 - **En fonction des saisons** : Tenez compte des périodes de froid et de chaleur pour chaque variété.
 - **Rotation des cultures** : Alterner les familles de plantes permet d’éviter les maladies.
 
-### 2. Techniques de plantation
+### Techniques de plantation
 
 - **Semis en pleine terre** : Plantez des graines directement dans le sol à l’époque appropriée.
 - **Repiquage** : Avancez vos semis en intérieur et repiquez après les derniers gels.
 
-### 3. Entretien post-plantation
+### Entretien post-plantation
 
 - **Surveiller l’humidité** : Arrosez régulièrement, en pensant à la météo.
 - **Engrais** : Apportez de l'engrais naturel pour soutenir la croissance.
@@ -234,7 +234,7 @@ La plantation de votre jardin est la phase culminante du processus de jardinage.
 
 Le climat méditerranéen offre de nombreuses opportunités pour divers légumes.
 
-### 1. Cultures au printemps
+### Cultures au printemps
 
 | Mois    | Cultures recommandées        |
 |---------|------------------------------|
@@ -242,12 +242,12 @@ Le climat méditerranéen offre de nombreuses opportunités pour divers légumes
 | Avril   | Tomates, poivrons            |
 | Mai     | Melons, courgettes           |
 
-### 2. Été et début d’automne
+### Été et début d’automne
 
 - **Après juillet** : Semis des variétés d’hiver comme les choux et les sauges.
 - **Gestion de l’eau** : Un système d’irrigation peut être bénéfique durant les mois chauds.
 
-### 3. Préparation pour l’hiver
+### Préparation pour l’hiver
 
 - **Jardinage en hiver** : Pensez à protéger vos cultures avec du paillis ou des filets.
   
@@ -255,17 +255,17 @@ Le climat méditerranéen offre de nombreuses opportunités pour divers légumes
 
 Juin est un mois crucial pour le jardin, plein de possibilités de semis.
 
-### 1. Semis tardifs
+### Semis tardifs
 
 - **Haricots nains** : Faciles à cultiver, ils se sèment directement en pleine terre.
 - **Courgettes** : Elles prospèrent durant cette période chaude.
 
-### 2. Entretien des cultures
+### Entretien des cultures
 
 - **Surveiller les ravageurs** : Inspectez régulièrement vos plantes pour éviter les infestations.
 - **Arrosage ciblé** : Privilégiez un arrosage profond le matin.
 
-### 3. Poursuite des semis échelonnés
+### Poursuite des semis échelonnés
 
 - **Échelonnement** : Pratiquez des semis échelonnés pour avoir des récoltes continues.
 
@@ -273,17 +273,17 @@ Juin est un mois crucial pour le jardin, plein de possibilités de semis.
 
 La diversité est la clé pour un jardin florissant.
 
-### 1. Plantes vivaces
+### Plantes vivaces
 
 - **Rhubarbe** : Plante biennal, riche en saveurs.
 - **Asperges** : Leurs premières années nécessitent des soins, mais sont très gratifiantes.
 
-### 2. Plantes saisonnières
+### Plantes saisonnières
 
 - **Fleurs comestibles** : Pensez à la capucine ou à la bourrache pour embellir votre potager.
 - **Légumes-fruits** : Plein de légumes qui font office de fruits, comme l’aubergine et le poivron.
 
-### 3. Astuces de planification
+### Astuces de planification
 
 - **Planifiez l’espace** : Optimisez chaque coin de votre jardin, même les plus petits.
 - **Diversité dans les cultures** : Évitez les monocultures; elles peuvent attirer des ravageurs.
@@ -292,17 +292,17 @@ La diversité est la clé pour un jardin florissant.
 
 Mars marque le début du printemps et la période idéale pour plusieurs semis.
 
-### 1. Plantes à prioriser
+### Plantes à prioriser
 
 - **Choux** : Débuter avec des variétés précoces pour une récolte anticipée.
 - **Laitue** : Semaine de mars pour une croissance rapide.
 
-### 2. Conditions optimales
+### Conditions optimales
 
 - **Préparer le sol** : Amender avec du compost et un bon drainage.
 - **Températures** : Plantez lorsque les températures nocturnes sont douces.
 
-### 3. Surveillance des cultures
+### Surveillance des cultures
 
 - **Arrosage précoce** : Lors des premières semaines, un bon arrosage est crucial.
 - **Protection contre le gel** : Utilisez des tunnels ou des cloches pour les semis sensibles.
@@ -311,17 +311,17 @@ Mars marque le début du printemps et la période idéale pour plusieurs semis.
 
 Il est toujours bon d'être à jour avec les semis en cours. 
 
-### 1. Calendrier actuel
+### Calendrier actuel
 
 - **Vérifiez votre calendrier** : Renseignez-vous sur les légumes adaptés à la météo actuelle.
 - **Conditions climatiques** : Prenez en compte les dernières gelées pour adapter vos semis.
 
-### 2. Semis d'appoint
+### Semis d'appoint
 
 - **Épices et aromatiques** : Pensez à des petites plantations de menthe, basilic, et coriandre.
 - **Légumes-racines** : Radis et carottes peuvent encore être semés.
 
-### 3. Liste de semis
+### Liste de semis
 
 - **Suivez cette liste** : 
   - Radis
@@ -332,35 +332,35 @@ Il est toujours bon d'être à jour avec les semis en cours.
 
 Le semis est le cœur de toute production jardinée. 
 
-### 1. Liste des semis pour aujourd'hui
+### Liste des semis pour aujourd'hui
 
 - **Courges** : Elles aiment la chaleur, assurez-vous que le temps est clément.
 - **Basilic** : Semis idéal pour le printemps.
   
-### 2. Prendre en compte la météo
+### Prendre en compte la météo
 
 - **Régime d’arrosage** : Assurez-vous que le sol est humide avant de semer.
 - **Conditions d’ensoleillement** : Observez la météo locale pour une croissance optimale.
 
-### 3. Savoir quand récolter
+### Savoir quand récolter
 
 - **Récolte anticipée** : Soyez régulier dans vos visites au jardin pour savoir quand cueillir.
 
 ## FAQ
 
-### 1. Quel est le meilleur moment pour commencer un potager en pleine terre ?
+### Quel est le meilleur moment pour commencer un potager en pleine terre ?
 Le meilleur moment est généralement le printemps, lorsque les températures nocturnes sont douces et que les risques de gel sont limités.
 
-### 2. Quels légumes poussent bien en montagne ?
+### Quels légumes poussent bien en montagne ?
 Les pommes de terre, les carottes et les légumes-racines se développent bien en altitude en raison de leur robustesse.
 
-### 3. Est-il difficile de planter du romarin en pleine terre ?
+### Est-il difficile de planter du romarin en pleine terre ?
 Non, le romarin est idéal pour les jardiniers débutants. Assurez-vous simplement qu’il soit planté dans un sol bien drainé et ensoleillé.
 
-### 4. Que doit-on faire pour bien préparer son jardin avant de planter ?
+### Que doit-on faire pour bien préparer son jardin avant de planter ?
 Il est essentiel de préparer le sol en l’amendant avec du compost, de désherber, et de tester son pH.
 
-### 5. Quels légumes puis-je planter en novembre ?
+### Quels légumes puis-je planter en novembre ?
 En novembre, vous pouvez planter de l'ail, des oignons, et certains légumes saladier pour une récolte précoce au printemps.
 
 ## Conclusion

@@ -107,23 +107,23 @@ Le jardin nécessite un entretien régulier. Négliger ce point peut mener à de
     
 ## FAQ sur le calendrier potager en Bretagne
 
-### 1. Quels légumes planter en Bretagne en mai ?
+### Quels légumes planter en Bretagne en mai ?
 
 En mai, vous pouvez planter des tomates, des courgettes, des poivrons, des salades et des herbes comme le basilic.
 
-### 2. Quelle est la meilleure période pour récolter mes légumes en Bretagne ?
+### Quelle est la meilleure période pour récolter mes légumes en Bretagne ?
 
 Cela varie selon les cultures. En général, les légumes d'été se récoltent de juin à septembre.
 
-### 3. Comment protéger mes plantes des gelées en Bretagne ?
+### Comment protéger mes plantes des gelées en Bretagne ?
 
 Utilisez des voiles de protection, des cloches ou des serres pour réchauffer vos plantes pendant les nuits froides.
 
-### 4. Quels éléments sont essentiels dans la préparation du sol en Bretagne ?
+### Quels éléments sont essentiels dans la préparation du sol en Bretagne ?
 
 Il est important d'aérer le sol, d'ajouter du compost ou du fumier bien décomposé, et de vérifier le pH.
 
-### 5. Les carottes se plantent-elles bien dans un potager breton ?
+### Les carottes se plantent-elles bien dans un potager breton ?
 
 Oui, à condition de choisir des variétés adaptées et de bien ameublir le sol pour qu'elles puissent s'épanouir.
 

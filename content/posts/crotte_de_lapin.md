@@ -139,19 +139,19 @@ Pour une alimentation équilibrée, préférez proposer :
 
 ## Foire aux questions (FAQ)
 
-### 1. Quelle est la meilleure façon d'utiliser la crotte de lapin dans mon jardin ?
+### Quelle est la meilleure façon d'utiliser la crotte de lapin dans mon jardin ?
 La meilleure approche est de mélanger les crottes avec le compost ou de les appliquer directement sur le sol comme engrais.
 
-### 2. Combien de temps faut-il pour que les crottes de lapin se décomposent ?
+### Combien de temps faut-il pour que les crottes de lapin se décomposent ?
 Les crottes de lapin se décomposent relativement rapidement, mais pour une efficacité maximale, les mélanger au compost peut accélérer le processus.
 
-### 3. Peut-on utiliser la crotte de lapin sur toutes les plantes ?
+### Peut-on utiliser la crotte de lapin sur toutes les plantes ?
 Oui, la crotte de lapin est généralement sans danger pour la plupart des plantes, en raison de sa faible concentration en nutriments.
 
-### 4. Quel est l'avantage de la crotte de lapin par rapport à d'autres engrais organiques ?
+### Quel est l'avantage de la crotte de lapin par rapport à d'autres engrais organiques ?
 La crotte de lapin est moins corrosive et ne nécessite pas de compostage préalable, offrant un engrais instantané et doux pour le sol.
 
-### 5. Les lapins peuvent-ils vivre exclusivement dans un jardin ?
+### Les lapins peuvent-ils vivre exclusivement dans un jardin ?
 Oui, mais ils doivent avoir accès à un abri, de l'eau et une alimentation équilibrée pour rester en bonne santé.
 
 ## Conclusion

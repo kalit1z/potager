@@ -1,6 +1,6 @@
 ---
-title: "BRF, un paillage innovant pour optimiser votre jardin."
-meta_title: "BRF : Transformez votre jardin avec ce paillage révolutionnaire"
+title: "Qu'est-ce que le BRF ? Un Paillage Naturel pour Optimiser Votre Jardin"
+meta_title: "BRF : Qu'est-ce que c'est et Comment l'Utiliser au Jardin ?"
 description: "Découvrez le BRF, un paillage innovant pour optimiser votre jardin et votre potager. Améliorez la santé de votre sol avec cette méthode durable."
 date: 2024-10-27
 image: "/images/posts/mass/brf.webp"

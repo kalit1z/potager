@@ -97,19 +97,19 @@ La récolte des haricots verts est le point culminant de vos efforts, et il est 
 
 ## FAQ : Vos Questions sur la Culture des Haricots Verts
 
-**Q : Combien de fois par semaine dois-je arroser mes plants de haricots verts ?**  
+**Combien de fois par semaine dois-je arroser mes plants de haricots verts ?**  
 **R :** En général, un arrosage profond une à deux fois par semaine suffit. Le sol doit rester humide mais sans excès d'eau.
 
-**Q : Comment savoir si mes haricots verts sont prêts à être récoltés ?**  
+**Comment savoir si mes haricots verts sont prêts à être récoltés ?**  
 **R :** Les haricots verts sont prêts lorsqu'ils sont fermes, d'un vert éclatant, et que les graines à l'intérieur ne sont pas encore visibles. Ils mesurent généralement entre 10 et 15 cm de long.
 
-**Q : Dois-je tuteurer toutes les variétés de haricots verts ?**  
+**Dois-je tuteurer toutes les variétés de haricots verts ?**  
 **R :** Non, seules les variétés grimpantes nécessitent un support. Les variétés naines se développent bien sans tuteurage.
 
-**Q : Comment prévenir les maladies comme la rouille sur mes plants de haricots verts ?**  
+**Comment prévenir les maladies comme la rouille sur mes plants de haricots verts ?**  
 **R :** Pour prévenir la rouille, veillez à espacer vos plants correctement, à éviter d'arroser le feuillage et à pratiquer la rotation des cultures chaque année.
 
-**Q : Quels sont les signes d'un manque d'eau chez les haricots verts ?**  
+**Quels sont les signes d'un manque d'eau chez les haricots verts ?**  
 **R :** Les feuilles qui se flétrissent ou jaunissent et une croissance ralentie sont des signes de stress hydrique. Il est important d'ajuster l'arrosage en conséquence.
 
 ---

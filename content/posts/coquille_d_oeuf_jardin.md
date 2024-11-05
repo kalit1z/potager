@@ -109,19 +109,19 @@ Les coquilles de moules peuvent également entrer dans le compostage, car elles 
 
 ## FAQ sur les coquilles d'œufs et d'huitres dans le jardin
 
-### 1. Peut-on utiliser des coquilles d'œuf au jardin ?
+### Peut-on utiliser des coquilles d'œuf au jardin ?
 Oui, les coquilles d'œuf sont de précieux amendements pour le sol et peuvent enrichir vos plantes en calcium.
 
-### 2. Faut-il rincer les huîtres avant de les composter ?
+### Faut-il rincer les huîtres avant de les composter ?
 Il n’est généralement pas nécessaire de rincer les coquilles d'huitres, sauf si elles contiennent des résidus alimentaires.
 
-### 3. Quelle est la durée de décomposition des coquilles d’huitres ?
+### Quelle est la durée de décomposition des coquilles d’huitres ?
 En moyenne, il faut entre 1 et 3 ans pour qu'elles se décomposent complètement.
 
-### 4. Comment préparer les coquilles d'œufs pour le jardin ?
+### Comment préparer les coquilles d'œufs pour le jardin ?
 Écrasez les coquilles d'œufs et incorporez-les directement dans le sol ou étalez-les autour de vos plantes.
 
-### 5. Peut-on donner des coquilles d'œuf aux poules ?
+### Peut-on donner des coquilles d'œuf aux poules ?
 Oui, cela est bénéfique pour la santé des poules et améliore la qualité des œufs.
 
 ## Conclusion

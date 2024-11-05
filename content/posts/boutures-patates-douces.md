@@ -1,5 +1,5 @@
 ---
-title: "Boutures de patates douces : Techniques efficaces"
+title: "Comment Bouturer des patates douces : Techniques efficaces"
 meta_title: "Comment faire des boutures de patates douces"
 description: "Découvrez les meilleures techniques pour réaliser des boutures de patates douces. Notre guide expert vous accompagne étape par étape pour une multiplication réussie de vos plants."
 date: 2024-09-16
@@ -40,6 +40,9 @@ Le choix du bon moment pour planter vos patates douces est crucial :
 
 - Régions tempérées : Mai à juin, quand le sol est bien réchauffé (au moins 10°C).
 - Régions chaudes : De mars à août, en évitant les périodes de canicule.
+
+
+<img src="/images/posts/patate-douce/patatezoom.webp" alt="Zoom sur des patates douces dans un seau, mettant en avant leur texture et leur couleur vibrante." width="500" height="300" style={{ display: 'block', margin: 'auto', borderRadius: '10px' }} /> 
 
 ## Bouturage patate douce : Techniques efficaces
 
@@ -113,6 +116,9 @@ La transition de l'eau vers la terre est une étape délicate :
 2. Faites un trou et plantez délicatement la bouture enracinée.
 3. Arrosez abondamment et placez dans un endroit lumineux mais sans soleil direct.
 4. Maintenez le sol constamment humide pendant les premières semaines.
+
+
+<img src="/images/posts/patate-douce/patatesdanslseau.webp" alt="Patates douces dans un seau, prêtes à être utilisées pour préparer des plats délicieux et nutritifs." width="500" height="300" style={{ display: 'block', margin: 'auto', borderRadius: '10px' }} /> 
 
 ## Planter patate douce en pot : Solution pour petits espaces
 
@@ -199,26 +205,26 @@ Après 3 à 5 mois de culture, vos patates douces seront prêtes à être récol
 
 ## FAQ : Vos questions sur le bouturage des patates douces
 
-1. **Q : Combien de temps faut-il pour qu'une bouture de patate douce produise des tubercules ?**
-   R : En général, il faut compter 3 à 5 mois après la plantation des boutures pour récolter des patates douces.
+1. **Combien de temps faut-il pour qu'une bouture de patate douce produise des tubercules ?**
+   En général, il faut compter 3 à 5 mois après la plantation des boutures pour récolter des patates douces.
 
-2. **Q : Peut-on bouturer des patates douces toute l'année ?**
-   R : Bien que possible en intérieur, il est préférable de bouturer au printemps pour une plantation estivale.
+2. **Peut-on bouturer des patates douces toute l'année ?**
+   Bien que possible en intérieur, il est préférable de bouturer au printemps pour une plantation estivale.
 
-3. **Q : Les patates douces issues de boutures sont-elles identiques à la plante mère ?**
-   R : Oui, les boutures produisent des plants génétiquement identiques à la plante mère.
+3. **Les patates douces issues de boutures sont-elles identiques à la plante mère ?**
+   Oui, les boutures produisent des plants génétiquement identiques à la plante mère.
 
-4. **Q : Combien de boutures peut-on obtenir d'une seule patate douce ?**
-   R : Une patate douce peut produire entre 10 et 30 boutures, selon sa taille et sa vigueur.
+4. **Combien de boutures peut-on obtenir d'une seule patate douce ?**
+   Une patate douce peut produire entre 10 et 30 boutures, selon sa taille et sa vigueur.
 
-5. **Q : Faut-il fertiliser les boutures de patates douces ?**
-   R : Oui, une fertilisation légère peut être commencée 2-3 semaines après l'enracinement des boutures.
+5. **Faut-il fertiliser les boutures de patates douces ?**
+   Oui, une fertilisation légère peut être commencée 2-3 semaines après l'enracinement des boutures.
 
-6. **Q : Les patates douces peuvent-elles être cultivées en climat froid ?**
-   R : Bien qu'elles préfèrent les climats chauds, il est possible de les cultiver en climat froid en utilisant des techniques de protection (tunnels, paillis) et en choisissant des variétés adaptées.
+6. **Les patates douces peuvent-elles être cultivées en climat froid ?**
+   Bien qu'elles préfèrent les climats chauds, il est possible de les cultiver en climat froid en utilisant des techniques de protection (tunnels, paillis) et en choisissant des variétés adaptées.
 
-7. **Q : Comment savoir si mes patates douces sont prêtes à être récoltées ?**
-   R : Les signes de maturité incluent le jaunissement des feuilles, le flétrissement des tiges, et une peau ferme sur les tubercules. La récolte se fait généralement 3 à 5 mois après la plantation. Pour plus de détails sur le timing de la récolte, consultez notre article [Quand récolter les patates douces](quand-recolter-patates-douces).
+7. **Comment savoir si mes patates douces sont prêtes à être récoltées ?**
+   Les signes de maturité incluent le jaunissement des feuilles, le flétrissement des tiges, et une peau ferme sur les tubercules. La récolte se fait généralement 3 à 5 mois après la plantation. Pour plus de détails sur le timing de la récolte, consultez notre article [Quand récolter les patates douces](quand-recolter-patates-douces).
 
 
 

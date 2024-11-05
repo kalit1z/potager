@@ -98,7 +98,7 @@ La préparation du sol est une étape cruciale souvent négligée. Un sol bien p
 
 Il existe plusieurs façons de planter les oignons, chacune avec ses avantages et ses défis. Le choix dépendra de votre expérience, de votre patience et de vos objectifs de culture.
 
-### 1. Plantation de Bulbilles : La Méthode Express
+### Plantation de Bulbilles : La Méthode Express
 
 - **Description** : Petits bulbes d'oignons pré-cultivés, généralement vendus en sachets.
 - **Procédure de plantation** :
@@ -113,7 +113,7 @@ Il existe plusieurs façons de planter les oignons, chacune avec ses avantages e
   - Choix de variétés plus limité.
   - Risque légèrement plus élevé de maladies transmises par les bulbilles.
 
-### 2. Semis Direct : Pour les Patients et les Économes
+### Semis Direct : Pour les Patients et les Économes
 
 - **Description** : Graines semées directement dans le potager.
 - **Procédure de semis** :
@@ -129,7 +129,7 @@ Il existe plusieurs façons de planter les oignons, chacune avec ses avantages e
   - Processus plus long jusqu'à la récolte.
   - Nécessite plus d'attention au début (arrosage, désherbage).
 
-### 3. Repiquage de Plants : Le Compromis Idéal
+### Repiquage de Plants : Le Compromis Idéal
 
 - **Description** : Jeunes plants cultivés en pépinière ou achetés.
 - **Procédure de repiquage** :
@@ -145,7 +145,7 @@ Il existe plusieurs façons de planter les oignons, chacune avec ses avantages e
   - Nécessite plus de travail et de planification.
   - Risque de choc à la transplantation si mal gérée.
 
-### 4. Plantation en Conteneurs : Solution pour Petits Espaces
+### Plantation en Conteneurs : Solution pour Petits Espaces
 
 - **Description** : Culture en pots, bacs ou jardinières pour balcons ou petits jardins.
 - **Procédure** :
@@ -298,34 +298,34 @@ Expérimentez avec différentes variétés pour trouver celles qui conviennent l
 ## FAQ : Réponses à Vos Questions sur la Culture des Oignons
 
 **Q1 : Puis-je planter des oignons deux années de suite au même endroit ?**
-R : Il est préférable d'éviter cela. La rotation des cultures aide à prévenir l'accumulation de maladies et de ravageurs spécifiques aux oignons dans le sol. Attendez au moins 3-4 ans avant de replanter des oignons au même endroit.
+Il est préférable d'éviter cela. La rotation des cultures aide à prévenir l'accumulation de maladies et de ravageurs spécifiques aux oignons dans le sol. Attendez au moins 3-4 ans avant de replanter des oignons au même endroit.
 
 **Q2 : Mes oignons produisent des fleurs. Est-ce un problème ?**
-R : La floraison, ou "montée en graine", est généralement indésirable pour la production de bulbes. Elle peut être causée par des fluctuations de température ou un stress. Retirez les tiges florales dès que vous les voyez pour rediriger l'énergie vers le bulbe.
+La floraison, ou "montée en graine", est généralement indésirable pour la production de bulbes. Elle peut être causée par des fluctuations de température ou un stress. Retirez les tiges florales dès que vous les voyez pour rediriger l'énergie vers le bulbe.
 
 **Q3 : Quelle est la différence entre les oignons à jours longs et à jours courts ?**
-R : Les oignons à jours longs commencent à former des bulbes quand la durée du jour dépasse 14-16 heures, idéaux pour les régions nordiques. Les oignons à jours courts forment des bulbes avec 10-12 heures de lumière, mieux adaptés aux régions méridionales.
+Les oignons à jours longs commencent à former des bulbes quand la durée du jour dépasse 14-16 heures, idéaux pour les régions nordiques. Les oignons à jours courts forment des bulbes avec 10-12 heures de lumière, mieux adaptés aux régions méridionales.
 
 **Q4 : Comment savoir si mes oignons manquent d'eau ?**
-R : Les feuilles d'oignons qui manquent d'eau deviennent flasques et peuvent commencer à jaunir prématurément. Le sol autour des plantes semblera sec et pourrait se fissurer. Un arrosage régulier mais modéré est crucial, surtout pendant la formation des bulbes.
+Les feuilles d'oignons qui manquent d'eau deviennent flasques et peuvent commencer à jaunir prématurément. Le sol autour des plantes semblera sec et pourrait se fissurer. Un arrosage régulier mais modéré est crucial, surtout pendant la formation des bulbes.
 
 **Q5 : Est-il nécessaire de butter les oignons ?**
-R : Contrairement à certains légumes, les oignons n'ont généralement pas besoin d'être buttés. En fait, butter les oignons peut encourager la pourriture du col. Il est préférable de laisser le haut du bulbe exposé à l'air.
+Contrairement à certains légumes, les oignons n'ont généralement pas besoin d'être buttés. En fait, butter les oignons peut encourager la pourriture du col. Il est préférable de laisser le haut du bulbe exposé à l'air.
 
 **Q6 : Comment traiter les oignons atteints de mildiou ?**
-R : Le mildiou se manifeste par des taches blanches sur les feuilles qui deviennent ensuite brunes. Retirez immédiatement les plantes infectées, améliorez la circulation d'air entre les plants et évitez d'arroser le feuillage. Des pulvérisations de bicarbonate de soude peuvent aider à prévenir la propagation.
+Le mildiou se manifeste par des taches blanches sur les feuilles qui deviennent ensuite brunes. Retirez immédiatement les plantes infectées, améliorez la circulation d'air entre les plants et évitez d'arroser le feuillage. Des pulvérisations de bicarbonate de soude peuvent aider à prévenir la propagation.
 
 **Q7 : Puis-je utiliser des engrais chimiques pour mes oignons ?**
-R : Bien que les engrais chimiques puissent être utilisés, les engrais organiques et le compost sont préférables. Ils améliorent la structure du sol et favorisent une croissance plus saine à long terme. Si vous optez pour des engrais chimiques, choisissez-en un avec un ratio NPK équilibré ou légèrement plus riche en potassium.
+Bien que les engrais chimiques puissent être utilisés, les engrais organiques et le compost sont préférables. Ils améliorent la structure du sol et favorisent une croissance plus saine à long terme. Si vous optez pour des engrais chimiques, choisissez-en un avec un ratio NPK équilibré ou légèrement plus riche en potassium.
 
 **Q8 : Comment savoir si mes oignons sont prêts à être récoltés ?**
-R : Les signes classiques de maturité incluent le jaunissement et l'affaissement des feuilles, ainsi que le décollement de la peau extérieure du bulbe. Généralement, cela se produit quand 50-75% des feuilles sont tombées.
+Les signes classiques de maturité incluent le jaunissement et l'affaissement des feuilles, ainsi que le décollement de la peau extérieure du bulbe. Généralement, cela se produit quand 50-75% des feuilles sont tombées.
 
 **Q9 : Mes oignons sont petits. Que puis-je faire pour obtenir de plus gros bulbes ?**
-R : Pour de plus gros oignons, assurez-vous de les planter tôt dans la saison, maintenez un espacement adéquat (10-15 cm), fournissez suffisamment d'eau et de nutriments, et choisissez des variétés adaptées à votre région. Évitez l'excès d'azote qui favorise le feuillage au détriment du bulbe.
+Pour de plus gros oignons, assurez-vous de les planter tôt dans la saison, maintenez un espacement adéquat (10-15 cm), fournissez suffisamment d'eau et de nutriments, et choisissez des variétés adaptées à votre région. Évitez l'excès d'azote qui favorise le feuillage au détriment du bulbe.
 
 **Q10 : Comment conserver les oignons si je n'ai pas de cave fraîche ?**
-R : Sans cave, stockez-les dans un endroit frais et sec de votre maison, comme un placard aéré ou un garage (tant qu'il ne gèle pas). Vous pouvez aussi les conserver dans le bac à légumes du réfrigérateur, bien que cela puisse affecter légèrement leur saveur.
+Sans cave, stockez-les dans un endroit frais et sec de votre maison, comme un placard aéré ou un garage (tant qu'il ne gèle pas). Vous pouvez aussi les conserver dans le bac à légumes du réfrigérateur, bien que cela puisse affecter légèrement leur saveur.
 
 ## Conclusion : L'Art de Cultiver les Oignons
 

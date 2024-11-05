@@ -210,17 +210,17 @@ Pour vous aider à planifier vos interventions, voici un calendrier récapitulat
 
 ## FAQ : Réponses aux questions fréquentes sur la taille des framboisiers
 
-**Q : Puis-je tailler mes framboisiers en automne ?**
-R : Il est préférable d'attendre la fin de l'hiver pour la taille principale. Une taille automnale pourrait stimuler une nouvelle croissance vulnérable au gel.
+**Puis-je tailler mes framboisiers en automne ?**
+Il est préférable d'attendre la fin de l'hiver pour la taille principale. Une taille automnale pourrait stimuler une nouvelle croissance vulnérable au gel.
 
-**Q : Que faire si je n'ai pas taillé mes framboisiers depuis plusieurs années ?**
-R : Commencez par une taille drastique en éliminant toutes les vieilles cannes et en ne gardant que les plus jeunes et vigoureuses. Ensuite, reprenez un cycle de taille régulier.
+**Que faire si je n'ai pas taillé mes framboisiers depuis plusieurs années ?**
+Commencez par une taille drastique en éliminant toutes les vieilles cannes et en ne gardant que les plus jeunes et vigoureuses. Ensuite, reprenez un cycle de taille régulier.
 
-**Q : Comment savoir si j'ai trop taillé mes framboisiers ?**
-R : Une taille excessive peut se manifester par une faible production l'année suivante. Visez à conserver environ 5-6 cannes par 30 cm de rang pour un équilibre optimal.
+**Comment savoir si j'ai trop taillé mes framboisiers ?**
+Une taille excessive peut se manifester par une faible production l'année suivante. Visez à conserver environ 5-6 cannes par 30 cm de rang pour un équilibre optimal.
 
-**Q : Faut-il tailler différemment les framboisiers cultivés en pot ?**
-R : Les principes de base restent les mêmes, mais vous pouvez être plus agressif dans la taille car l'espace est limité. Assurez-vous de maintenir une bonne circulation d'air entre les cannes.
+**Faut-il tailler différemment les framboisiers cultivés en pot ?**
+Les principes de base restent les mêmes, mais vous pouvez être plus agressif dans la taille car l'espace est limité. Assurez-vous de maintenir une bonne circulation d'air entre les cannes.
 
 ## Conclusion : Maîtrisez l'art de la taille pour des framboisiers florissants
 

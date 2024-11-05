@@ -68,7 +68,7 @@ Le timing est un facteur crucial pour la réussite de vos boutures. Bien que le 
 
 ## Comment bouturer un framboisier : Guide étape par étape
 
-### 1. Préparation du matériel
+### Préparation du matériel
 
 Avant de commencer, assurez-vous d'avoir tout le nécessaire :
 
@@ -79,7 +79,7 @@ Avant de commencer, assurez-vous d'avoir tout le nécessaire :
 - Un brumisateur ou un vaporisateur
 - Une mini-serre ou des sacs plastiques transparents
 
-### 2. Sélection et prélèvement des boutures
+### Sélection et prélèvement des boutures
 
 La qualité de vos boutures déterminera en grande partie leur taux de réussite. Voici comment bien les choisir et les prélever :
 
@@ -88,14 +88,14 @@ La qualité de vos boutures déterminera en grande partie leur taux de réussite
 3. Coupez la tige juste en dessous d'un nœud à la base (c'est là que les racines se développeront) et juste au-dessus d'un nœud au sommet.
 4. Retirez toutes les feuilles du tiers inférieur de la tige. Vous pouvez également réduire de moitié les feuilles restantes pour limiter l'évaporation.
 
-### 3. Préparation des boutures
+### Préparation des boutures
 
 Pour optimiser les chances de réussite de vos boutures :
 
 1. Si vous utilisez de l'hormone de bouturage, trempez la base de chaque bouture dans la poudre ou le gel. Secouez légèrement pour retirer l'excès.
 2. Préparez des trous dans le terreau de vos pots à l'aide d'un crayon ou d'un petit bâtonnet. Cela évitera d'endommager la base de la bouture lors de l'insertion.
 
-### 4. Plantation des boutures
+### Plantation des boutures
 
 Suivez ces étapes pour planter correctement vos boutures :
 
@@ -104,7 +104,7 @@ Suivez ces étapes pour planter correctement vos boutures :
 3. Arrosez doucement mais abondamment pour bien humidifier le substrat et éliminer les poches d'air.
 4. Placez les pots dans un endroit lumineux mais à l'abri du soleil direct. Une lumière tamisée est idéale pour les premières semaines.
 
-### 5. Soins post-bouturage
+### Soins post-bouturage
 
 Les semaines suivant le bouturage sont cruciales pour la réussite de l'opération :
 

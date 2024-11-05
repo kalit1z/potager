@@ -116,20 +116,20 @@ Comme vous pouvez le voir, le terreau maison à base de compost offre de nombreu
 
 ## FAQ : Tout savoir sur le compost pour jardin
 
-**Q : Combien de temps faut-il pour obtenir du compost utilisable ?**
-R : En général, il faut compter entre 3 et 6 mois. Personnellement, je trouve que le compost est parfait après environ 4 mois en été, un peu plus en hiver.
+**Combien de temps faut-il pour obtenir du compost utilisable ?**
+En général, il faut compter entre 3 et 6 mois. Personnellement, je trouve que le compost est parfait après environ 4 mois en été, un peu plus en hiver.
 
-**Q : Puis-je composter en appartement ?**
-R : Absolument ! J'ai commencé le compostage quand je vivais en appartement. Un petit composteur de cuisine ou le lombricompostage sont d'excellentes options.
+**Puis-je composter en appartement ?**
+Absolument ! J'ai commencé le compostage quand je vivais en appartement. Un petit composteur de cuisine ou le lombricompostage sont d'excellentes options.
 
-**Q : Quels déchets ne faut-il pas mettre dans le compost ?**
-R : Évitez la viande, le poisson, les produits laitiers, les agrumes en grande quantité, et bien sûr, tout ce qui n'est pas biodégradable.
+**Quels déchets ne faut-il pas mettre dans le compost ?**
+Évitez la viande, le poisson, les produits laitiers, les agrumes en grande quantité, et bien sûr, tout ce qui n'est pas biodégradable.
 
-**Q : Le compost attire-t-il les nuisibles ?**
-R : Si le compost est bien géré, non. Je veille toujours à bien équilibrer les matières et à remuer régulièrement pour éviter ce problème.
+**Le compost attire-t-il les nuisibles ?**
+Si le compost est bien géré, non. Je veille toujours à bien équilibrer les matières et à remuer régulièrement pour éviter ce problème.
 
-**Q : Peut-on utiliser du compost pour toutes les plantes ?**
-R : Presque ! Certaines plantes qui préfèrent les sols pauvres (comme les lavandes) n'en ont pas besoin. Pour le reste, c'est bénéfique à petites doses.
+**Peut-on utiliser du compost pour toutes les plantes ?**
+Presque ! Certaines plantes qui préfèrent les sols pauvres (comme les lavandes) n'en ont pas besoin. Pour le reste, c'est bénéfique à petites doses.
 
 ## Conclusion : Le compost, clé d'un jardin florissant
 

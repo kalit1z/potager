@@ -136,19 +136,19 @@ Cultiver des patates douces dans l'eau constitue une méthode fascinante et éco
 
 ## FAQ
 
-### 1. Quel est le meilleur moment pour faire germer des patates douces ?
+### Quel est le meilleur moment pour faire germer des patates douces ?
 Il est recommandé de commencer en hiver ou au début du printemps pour avoir des plants prêts à transplanter au printemps.
 
-### 2. Puis-je utiliser des patates douces achetées en magasin ?
+### Puis-je utiliser des patates douces achetées en magasin ?
 Oui, tant qu'elles sont saines et non traitées, mais évitez celles qui montrent des signes de pourriture.
 
-### 3. Comment savoir si ma patate douce est prête à être plantée ?
+### Comment savoir si ma patate douce est prête à être plantée ?
 Lorsque les pousses mesurent environ 15 cm et que des racines commencent à se former, elles sont prêtes à être replantées dans le sol.
 
-### 4. Quelles maladies peuvent affecter mes plants de patate douce ?
+### Quelles maladies peuvent affecter mes plants de patate douce ?
 Les maladies fongiques comme la pourriture des racines sont courantes. Assurez-vous de bien drainer le sol et de ne pas trop arroser.
 
-### 5. Combien de temps faut-il pour récolter des patates douces après les avoir plantées ?
+### Combien de temps faut-il pour récolter des patates douces après les avoir plantées ?
 Cela dépend des variétés, mais généralement, vous pouvez récolter entre 90 à 120 jours après la plantation.
 
 ## Conclusion

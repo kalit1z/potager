@@ -116,19 +116,19 @@ Lean à respecter les bonnes pratiques de conservation, tels que le séchage app
 
 ## FAQ : Vos Questions Fréquemment Posées
 
-### 1. Quand puis-je commencer à planter du maïs ?
+### Quand puis-je commencer à planter du maïs ?
 Il est conseillé de planter le maïs après les dernières gelées printanières, lorsque le sol est à environ 10°C.
 
-### 2. Comment conserver le maïs après récolte ?
+### Comment conserver le maïs après récolte ?
 Pour conserver le maïs, assurez-vous de le sécher complètement et de le stocker dans un endroit frais et sec.
 
-### 3. Quelles sont les meilleures variétés de maïs doux ?
+### Quelles sont les meilleures variétés de maïs doux ?
 Les variétés populaires incluent le "Silver Queen" et le "Sweet Silver," qui sont appréciées pour leur douceur et leur croquant.
 
-### 4. Comment cuisiner du maïs en grain sec ?
+### Comment cuisiner du maïs en grain sec ?
 Pour cuire du maïs en grain sec, faites-le tremper dans l'eau, puis faites-le bouillir jusqu'à ce qu'il soit tendre.
 
-### 5. Comment savoir si un épi de maïs est prêt à être récolté ?
+### Comment savoir si un épi de maïs est prêt à être récolté ?
 L’épi est prêt lorsque les silks sont bruns et que les grains sont durs et bien pleins.
 
 ## Conclusion : L’Art de Cultiver le Maïs

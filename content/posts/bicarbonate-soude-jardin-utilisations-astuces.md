@@ -1,6 +1,6 @@
 ---
-title: "Bicarbonate de soude au jardin : Utilisations et astuces méconnues"
-meta_title: "Bicarbonate de Soude au Jardin | 10 Utilisations Surprenantes"
+title: "Pourquoi Utiliser le Bicarbonate au Jardin ? Ses Bienfaits et Utilisations"
+meta_title: "Pourquoi Utiliser le Bicarbonate au Jardin | 10 Utilisations Surprenantes"
 description: "Découvrez les multiples usages du bicarbonate de soude dans votre jardin. Astuces écologiques et économiques pour entretenir vos plantes, lutter contre les nuisibles et améliorer votre sol naturellement."
 date: 2024-09-23
 image: "/images/posts/bicarbo/bicarbo.webp"
@@ -31,6 +31,10 @@ Le bicarbonate de soude, ou hydrogénocarbonate de sodium, est un composé natur
 
 > "Le bicarbonate de soude est un véritable couteau suisse pour le jardinier écolo. Ses utilisations sont multiples et ses effets bénéfiques pour le jardin sont surprenants." - Marie Durand, experte en jardinage biologique
 
+
+<img src="/images/posts/mass/engrais_pour_tomates2.webp" alt="Techniques efficaces pour fertiliser les tomates" width="500" height="300" style={{ display: 'block', margin: 'auto', borderRadius: '10px' }} /> 
+
+
 ## Bicarbonate de soude dans le jardin : Applications pratiques
 
 Voici quelques utilisations concrètes du bicarbonate de soude dans votre jardin :
@@ -39,6 +43,8 @@ Voici quelques utilisations concrètes du bicarbonate de soude dans votre jardin
    - Mélangez 1 cuillère à soupe de bicarbonate dans 1 litre d'eau
    - Ajoutez quelques gouttes de savon liquide pour améliorer l'adhérence
    - Pulvérisez sur les feuilles tous les 10-14 jours en prévention
+
+   [En savoir plus ->](oidium-courgettes-prevention-traitements-naturels)
 
 2. **Répulsif contre les fourmis et les limaces** :
    - Saupoudrez du bicarbonate pur autour des plants à protéger

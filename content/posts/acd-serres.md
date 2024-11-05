@@ -88,25 +88,25 @@ De nombreux jardiniers témoignent des bienfaits des ACD Serres. Voici quelques 
 
 ## FAQ
 
-### 1. Quel type de serre ACD est le mieux adapté pour les légumes ?
+### Quel type de serre ACD est le mieux adapté pour les légumes ?
 
 Les serres en polycarbonate sont souvent recommandées pour les légumes, car elles assurent une bonne isolation thermique.
 
 [Quand récolter les patates douces](quand-recolter-patates-douces)
 
-### 2. Combien de temps dure une serre ACD ?
+### Combien de temps dure une serre ACD ?
 
 Avec un entretien approprié, une serre ACD peut durer de 10 à 20 ans, selon le matériau.
 
-### 3. Dois-je investir dans un système de chauffage pour ma serre ACD ?
+### Dois-je investir dans un système de chauffage pour ma serre ACD ?
 
 Cela dépend des conditions climatiques de votre région. Dans les climats plus froids, un système de chauffage peut être bénéfique.
 
-### 4. Comment choisir la taille de ma serre ACD ?
+### Comment choisir la taille de ma serre ACD ?
 
 Évaluez l'espace disponible dans votre jardin et considérez le type et la quantité de plantes que vous souhaitez cultiver.
 
-### 5. Est-ce que les serres ACD nécessitent des autorisations spéciales ?
+### Est-ce que les serres ACD nécessitent des autorisations spéciales ?
 
 Cela varie selon la localisation. Vérifiez toujours les réglementations locales avant de construire une serre.
 

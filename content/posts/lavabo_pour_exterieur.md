@@ -161,23 +161,23 @@ Les choix sont nombreux, mais il est essentiel de comprendre vos besoins.
 
 ## FAQ sur le Lavabo pour Extérieur
 
-### 1. Pourquoi installer un évier extérieur dans mon jardin ?
+### Pourquoi installer un évier extérieur dans mon jardin ?
 
 Un évier extérieur facilite le nettoyage des outils de jardinage et des légumes, rendant votre expérience de jardinage plus agréable.
 
-### 2. Quel matériau est le meilleur pour un évier de jardin ?
+### Quel matériau est le meilleur pour un évier de jardin ?
 
 Les matériaux comme l'inox et le béton sont populaires pour leur durabilité et leur esthétique. Le choix dépendra de votre style et de votre usage.
 
-### 3. Est-il difficile de fabriquer un évier en béton ?
+### Est-il difficile de fabriquer un évier en béton ?
 
 Cela nécessite des compétences en bricolage, mais avec les bons matériaux et des instructions claires, c'est tout à fait réalisable.
 
-### 4. Comment entretenir mon évier extérieur ?
+### Comment entretenir mon évier extérieur ?
 
 Un nettoyage régulier avec une solution douce est conseillé. Assurez-vous de vérifier les joints et les structures pour des fuites potentielles.
 
-### 5. Quelles sont les meilleures configurations pour un évier extérieur ?
+### Quelles sont les meilleures configurations pour un évier extérieur ?
 
 Un évier près d'un barbecue ou d'un potager est idéal pour maximiser l'utilisation. Pensez également à l'éclairage et à l'accès à l'eau.
 

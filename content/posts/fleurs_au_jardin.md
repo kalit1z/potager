@@ -157,19 +157,19 @@ Pour assurer la pérennité de votre jardin :
 
 ## Foire aux questions (FAQ)
 
-### 1. Quelles fleurs planter dans le potager ?
+### Quelles fleurs planter dans le potager ?
 Pour un potager, optez pour les capucines, les soucis, et les bourraches.
 
-### 2. Comment intégrer des fleurs et des légumes ?
+### Comment intégrer des fleurs et des légumes ?
 Alternez les jeunes plantes de fleurs avec les légumes lors de la plantation.
 
-### 3. Quelles fleurs sont résistantes aux maladies ?
+### Quelles fleurs sont résistantes aux maladies ?
 Les soucis et les capucines sont connues pour leur résistance.
 
-### 4. Quand est-il préférable de planter des fleurs au potager ?
+### Quand est-il préférable de planter des fleurs au potager ?
 Le printemps, une fois le gel passé, est l'idéal pour semer des fleurs.
 
-### 5. Les fleurs peuvent-elles repousser chaque année ?
+### Les fleurs peuvent-elles repousser chaque année ?
 Oui, de nombreuses fleurs comme les cosmos et les soucis se ressèment d’elles-mêmes.
 
 ## Conclusion

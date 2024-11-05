@@ -158,19 +158,19 @@ Le timing et la stratégie sont cruciaux quand il s'agit d'appliquer des désher
 
 ## FAQ sur le désherbage du potager
 
-### 1. Quand est-ce le meilleur moment pour désherber mon potager ?
+### Quand est-ce le meilleur moment pour désherber mon potager ?
 Le meilleur moment pour désherber est au début du printemps lorsque les mauvaises herbes commencent à germer, et juste avant la plantation.
 
-### 2. Quels sont les désherbants naturels les plus efficaces ?
+### Quels sont les désherbants naturels les plus efficaces ?
 Les désherbants naturels les plus efficaces incluent le vinaigre blanc, le sel, et l'eau bouillante.
 
-### 3. Peut-on utiliser du désherbant en hiver ?
+### Peut-on utiliser du désherbant en hiver ?
 Il est conseillé d'éviter d'utiliser des désherbants en hiver, car l'efficacité peut être réduite par le froid.
 
-### 4. Comment se débarrasser du liseron naturellement ?
+### Comment se débarrasser du liseron naturellement ?
 Pour se débarrasser du liseron, appliquez du vinaigre ou arrachez les racines manuellement.
 
-### 5. Quelle est la meilleure méthode pour désherber sans produits chimiques ?
+### Quelle est la meilleure méthode pour désherber sans produits chimiques ?
 L'utilisation de mulch, le désherbage manuel, et les outils comme le râteau désherbant sont des méthodes efficaces pour désherber naturellement.
 
 ## Conclusion

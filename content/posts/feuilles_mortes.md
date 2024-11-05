@@ -131,19 +131,19 @@ Les **feuilles d’artichaut** font également partie des matières compostables
 
 ## FAQ
 
-### 1. Quelles plantes ne dois-je pas ajouter à mon compost ?
+### Quelles plantes ne dois-je pas ajouter à mon compost ?
 Certaines plantes comme les pavots, les aconits et les plantes malades doivent être évitées. Elles peuvent contaminer le compost fini.
 
-### 2. Combien de temps faut-il pour que les feuilles mortes se décomposent ?
+### Combien de temps faut-il pour que les feuilles mortes se décomposent ?
 En général, les feuilles mortes prennent entre 6 mois et 1 an pour se décomposer complètement en compost, selon la méthode de compostage utilisée.
 
-### 3. Puis-je utiliser des feuilles de laurier pour le compost ?
+### Puis-je utiliser des feuilles de laurier pour le compost ?
 Bien que les feuilles de laurier soient compostables, utilisez-les avec modération, car elles peuvent inhiber la croissance de certaines plantes si elles sont présentes en excès.
 
-### 4. Comment puis-je utiliser les feuilles mortes comme paillage ?
+### Comment puis-je utiliser les feuilles mortes comme paillage ?
 Rassemblez les feuilles, broyez-les si possible, et étalez une couche de 5 à 10 cm autour de vos plantes pour conserver l'humidité et suppresses les mauvaises herbes.
 
-### 5. Quels sont les avantages du paillage avec des feuilles mortes ?
+### Quels sont les avantages du paillage avec des feuilles mortes ?
 Le paillage aide à conserver l'humidité, améliore la structure du sol, empêche la pousse des mauvaises herbes et protège les racines des plantes.
 
 ## Conclusion

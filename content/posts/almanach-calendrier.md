@@ -1,6 +1,6 @@
 ---
-title: "Calendrier de l'Almanach : L'outil incontournable des jardiniers"
-meta_title: "Le guide pratique pour jardiniers passionnés"
+title: "Calendrier Potager 2025 : Almanach pour Jardiniers"
+meta_title: "Calendrier Potager 2025 - Conseils et Semis Mois par Mois"
 description: "Tout ce qu'il faut savoir sur le calendrier des semis 2025 pour réussir votre potager, incluant dates, conseils et astuces pratiques."
 date: 2024-10-23
 image: "/images/posts/mass/almanach_calendrier.webp"

@@ -1,5 +1,5 @@
 ---
-title: "Guide complet pour butter vos pommes de terre efficacement"
+title: "Guide complet comment butter vos pommes de terre efficacement"
 meta_title: "Comment butter les pommes de terre : Guide pour jardiniers avisés"
 description: "Découvrez notre guide complet sur le buttage des pommes de terre, ses bienfaits et techniques pour un potager prospère."
 date: 2024-10-28
@@ -98,6 +98,8 @@ Il y a des situations où vous pourriez ne pas vouloir butter :
 - **Sols déjà bien drainés** : Si votre terre est sablonneuse, le buttage peut causer de la sécheresse excessive.
 - **Variétés de pommes de terre uniques** : Certaines cultures, comme les variétés de pommes de terre à peaux rouges, peuvent ne pas nécessiter de buttage.
 
+[Quand bouturer les patates douces](boutures-patates-douces)
+
 ## Comment butter les pommes de terre
 
 <img src="/images/posts/mass/butter_les_pommes_de_terre2.webp" alt="Buttage des pommes de terre : méthode pour optimiser la culture" width="500" height="300" style={{ display: 'block', margin: 'auto', borderRadius: '10px' }} /> 
@@ -140,19 +142,19 @@ Une étude récente (Smith et al., 2022) indique que les champs souvent buttés 
 
 ## FAQ
 
-### 1. Quand butter les pommes de terre ?
+### Quand butter les pommes de terre ?
 Le buttage doit être effectué environ 2 à 3 semaines après la levée des plants, se répétant toutes les 4 à 6 semaines.
 
-### 2. Quel est l'outil idéal pour butter les pommes de terre ?
+### Quel est l'outil idéal pour butter les pommes de terre ?
 Un butteur à pommes de terre est l'outil le plus efficace, mais une bêche peut également faire l'affaire.
 
-### 3. Peut-on butter les pommes de terre en été ?
+### Peut-on butter les pommes de terre en été ?
 Oui, il est conseillé de butter les pommes de terre pendant leur période de croissance active pour garantir santé et rendement.
 
-### 4. Est-ce qu'il existe des variétés de pommes de terre qui ne nécessitent pas de buttage ?
+### Est-ce qu'il existe des variétés de pommes de terre qui ne nécessitent pas de buttage ?
 Certaines variétés, comme les pommes de terre à peaux rouges, peuvent ne pas nécessiter de buttage en raison de leur croissance plus robuste.
 
-### 5. Quels sont les risques de ne pas butter les pommes de terre ?
+### Quels sont les risques de ne pas butter les pommes de terre ?
 Ne pas butter peut entraîner une exposition des tubercules à la lumière, provoquant une décoloration et une amertume.
 
 ## Conclusion

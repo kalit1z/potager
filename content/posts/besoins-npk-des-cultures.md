@@ -1,6 +1,6 @@
 ---
-title: "Besoin NPK Pomme de Terre : Guide Complet pour un Jardin Flourissant"
-meta_title: "Besoin NPK Pomme de Terre : Guide pour optimiser votre culture"
+title: "Comment Calculer les Besoins en Engrais NPK pour les Pommes de Terre"
+meta_title: "Calcul des Besoins en Engrais NPK pour Pommes de Terre – Optimisez votre Culture"
 description: "Découvrez tout sur les besoins en NPK pour vos pommes de terre et les meilleures pratiques pour optimiser votre culture."
 date: 2024-10-26
 image: "/images/posts/mass/besoins-npk-des-cultures.webp"

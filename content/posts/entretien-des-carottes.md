@@ -103,20 +103,20 @@ La récolte des carottes est le moment de vérité, où vous pouvez enfin appré
 
 ## FAQ : Réponses à Vos Questions sur l'Entretien des Carottes
 
-**Q : Pourquoi mes carottes sont-elles fourchues ?**
-R : Les carottes fourchues sont souvent le résultat d'un sol trop compact ou pierreux. Assurez-vous de bien préparer votre sol avant le semis et d'éliminer les obstacles.
+**Pourquoi mes carottes sont-elles fourchues ?**
+Les carottes fourchues sont souvent le résultat d'un sol trop compact ou pierreux. Assurez-vous de bien préparer votre sol avant le semis et d'éliminer les obstacles.
 
-**Q : Faut-il butter les carottes ?**
-R : Le buttage n'est généralement pas nécessaire pour les carottes. Cependant, un léger buttage peut aider à prévenir le verdissement du collet.
+**Faut-il butter les carottes ?**
+Le buttage n'est généralement pas nécessaire pour les carottes. Cependant, un léger buttage peut aider à prévenir le verdissement du collet.
 
-**Q : Comment lutter contre la mouche de la carotte ?**
-R : Utilisez des voiles anti-insectes, pratiquez la rotation des cultures, et semez à côté des plantes aromatiques comme l'oignon ou l'ail qui repoussent naturellement ce ravageur.
+**Comment lutter contre la mouche de la carotte ?**
+Utilisez des voiles anti-insectes, pratiquez la rotation des cultures, et semez à côté des plantes aromatiques comme l'oignon ou l'ail qui repoussent naturellement ce ravageur.
 
-**Q : Mes carottes sont petites, que faire ?**
-R : Des carottes petites peuvent être dues à un sol trop riche en azote, un manque d'eau, ou un semis trop dense. Assurez-vous d'équilibrer la fertilisation, d'arroser régulièrement et d'éclaircir suffisamment.
+**Mes carottes sont petites, que faire ?**
+Des carottes petites peuvent être dues à un sol trop riche en azote, un manque d'eau, ou un semis trop dense. Assurez-vous d'équilibrer la fertilisation, d'arroser régulièrement et d'éclaircir suffisamment.
 
-**Q : Peut-on cultiver des carottes en pot ?**
-R : Oui, choisissez des variétés courtes ou rondes et utilisez des pots d'au moins 30 cm de profondeur avec un bon drainage.
+**Peut-on cultiver des carottes en pot ?**
+Oui, choisissez des variétés courtes ou rondes et utilisez des pots d'au moins 30 cm de profondeur avec un bon drainage.
 
 ## Conclusion : Le Secret d'une Culture de Carottes Réussie
 
