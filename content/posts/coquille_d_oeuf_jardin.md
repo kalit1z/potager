@@ -1,5 +1,5 @@
 ---
-title: "Découvrez comment la coquille d'œuf jardin booste vos plantes !"
+title: "Découvrez comment utiliser les coquilles d'oeuf au jardin"
 meta_title: "Découvrez comment la coquille d'œuf jardin booste vos plantes !"
 description: "Apprenez à utiliser les coquilles d'œuf et d'huître au jardin pour enrichir vos plantes et améliorer votre sol."
 date: 2024-11-08
