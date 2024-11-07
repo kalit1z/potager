@@ -2,13 +2,13 @@
 title: "Découvrez comment la coquille d'œuf jardin booste vos plantes !"
 meta_title: "Découvrez comment la coquille d'œuf jardin booste vos plantes !"
 description: "Apprenez à utiliser les coquilles d'œuf et d'huître au jardin pour enrichir vos plantes et améliorer votre sol."
-date: 2024-11-07
+date: 2024-11-08
 image: "/images/posts/mass/coquille_d_oeuf_jardin.webp"
 imageAlt: "Coquille d'œuf : un atout pour booster vos plantes au jardin"
 categories: ["Astuces du potager"]
 authors: ["Pierre Penchot"]
 tags: []
-draft: true
+draft: false
 ---
 
 Les jardiniers en herbe et expérimentés cherchent toujours des moyens naturels d’enrichir leur sol et d’optimiser la santé de leurs plantes. Une solution à la fois simple et écologique se trouve sous nos yeux : les coquilles d'œuf et les coquilles d'huître. En effet, ces matériaux souvent jetés peuvent devenir des alliés précieux pour un jardin florissant. Dans cet article, nous explorerons l'utilisation des coquilles d'œuf dans le jardin, ainsi que les nombreux avantages qu'apporte la coquille d'huître.

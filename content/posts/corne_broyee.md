@@ -2,7 +2,7 @@
 title: "Découvrez la corne broyée : un atout pour votre jardinage"
 meta_title: "Découvrez la corne broyée : un atout pour votre jardinage"
 description: "Apprenez comment la corne broyée peut transformer votre jardin en un havre de prospérité avec des conseils d'utilisation et d'application."
-date: 2024-11-08
+date: 2024-12-08
 image: "/images/posts/mass/corne_broyee.webp"
 imageAlt: "Utilisation de la corne broyée pour enrichir le sol de votre jardin"
 categories: ["Astuces du potager"]
