@@ -1,6 +1,6 @@
 ---
-title: "Découvrez la courge verte : Guide complet pour jardiniers"
-meta_title: "Découvrez la courge verte : Guide complet pour jardiniers"
+title: "Quand et comment récolter les courges vertes"
+meta_title: "Quand récolter les courges vertes : tout ce qu’il faut savoir"
 description: "Explorez le monde des courges vertes : récolte, conservation et plats délicieux à base de courge verte. Pour le jardinier passionné !"
 date: 2024-11-09
 image: "/images/posts/mass/courge_verte.webp"
@@ -8,7 +8,7 @@ imageAlt: "Courge verte : guide complet pour jardiniers passionnés"
 categories: ["Entretenir votre potager"]
 authors: ["Jade Orlanal"]
 tags: []
-draft: true
+draft: false
 ---
 
 La courge verte, avec sa belle couleur vibrante et sa polyvalence culinaire, est bien plus qu'un simple légume d'automne. Elle est riche en nutriments, délicieuse et est un incontournable des jardins potagers. Que vous soyez un jardinier aguerri ou un débutant, savoir comment cultiver, récolter et conserver ces légumes peut transformer vos plats et votre jardin. Dans cet article, nous explorerons tout ce qu'il y a à savoir sur la courge verte.
