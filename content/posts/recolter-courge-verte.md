@@ -5,8 +5,8 @@ description: "Explorez le monde des courges vertes : récolte, conservation et p
 date: 2024-11-09
 image: "/images/posts/mass/courge_verte.webp"
 imageAlt: "Courge verte : guide complet pour jardiniers passionnés"
-categories: ["Entretenir votre potager"]
-authors: ["Jade Orlanal"]
+categories: ["Recolter votre potager"]
+authors: ["Pierre Penchot"]
 tags: []
 draft: false
 ---
