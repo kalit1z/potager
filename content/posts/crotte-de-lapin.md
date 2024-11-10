@@ -1,5 +1,5 @@
 ---
-title: "Comment Utiliser la Crotte de Lapin pour Enrichir Votre Jardin"
+title: "Comment la crotte de lapin peut transformer votre jardin"
 meta_title: "Comment Utiliser la Crotte de Lapin pour Enrichir Votre Jardin"
 description: "Découvrez comment la crotte de lapin peut transformer votre jardin en un véritable eden grâce à ses propriétés fertilisantes incroyables!" 
 date: 2024-11-11
@@ -8,7 +8,7 @@ imageAlt: "Crotte de lapin : un fertilisant naturel pour le jardin"
 categories: ["Astuces du potager"]
 authors: ["Pierre Penchot"]
 tags: []
-draft: true
+draft: false
 ---
 
 La nature regorge de trésors souvent méconnus, et la crotte de lapin en est un parfait exemple. Bien plus qu’un simple déchet, cet apport organique est un véritable allié pour les jardiniers soucieux d’enrichir leur sol et d’améliorer le rendement de leurs cultures. Que vous soyez un jardinier novice ou expérimenté, comprendre l’importance de la crotte de lapin et son utilisation peut vous procurer de nombreux avantages dans votre jardin. Explorons ensemble les multiples facettes de cette source précieuse de fertilisation.

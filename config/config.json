@@ -2,7 +2,7 @@
   "site": {
     "title": "Jardins Passion | Expert en Potagers",
     "base_url": "https://www.jardins-passion.fr/",
-    "favicon": "/images/favicon.png",
+    "favicon": "/images/favicon.ico",
     "logo": "/images/logo.png",
     "logo_width": "234",
     "logo_height": "50",
@@ -23,7 +23,7 @@
 
   "metadata": {
     "meta_author": "Équipe Jardins Passion",
-    "meta_image": "/images/favicon.png",
+    "meta_image": "/images/favicon.ico",
     "meta_description": "Jardins Passion : votre guide expert pour créer et entretenir un potager productif. Conseils, astuces et techniques pour cultiver vos propres fruits et légumes."
   }
 }

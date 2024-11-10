@@ -179,29 +179,6 @@ Une fois vos boutures plantées, qu'elles soient en pleine terre ou en pot, il e
 
 <img src="/images/posts/patate-douce/zoompatate.webp" alt="Patate douce presque prête, montrant sa texture mature et sa couleur prête pour la récolte." width="500" height="300" style={{ display: 'block', margin: 'auto', borderRadius: '10px' }} /> 
 
-## Récolte et conservation des patates douces
-
-Après 3 à 5 mois de culture, vos patates douces seront prêtes à être récoltées.
-
-### Signes de maturité
-
-- Les feuilles commencent à jaunir et à se flétrir.
-- La peau des tubercules est ferme et ne s'enlève pas facilement.
-- Les tiges deviennent plus ligneuses.
-
-### Technique de récolte
-
-1. Choisissez une journée ensoleillée et sèche pour la récolte.
-2. Coupez les tiges à environ 15 cm au-dessus du sol.
-3. Creusez délicatement autour des plants avec une fourche bêche.
-4. Soulevez doucement les tubercules en évitant de les blesser.
-5. Laissez sécher les patates douces au soleil pendant quelques heures.
-
-### Conservation
-
-- Cure : Placez les patates douces dans un endroit chaud (27-30°C) et humide pendant 7-10 jours pour favoriser la cicatrisation et le développement des sucres.
-- Stockage : Conservez-les dans un endroit frais (13-15°C), sombre et bien ventilé.
-- Durée : Dans de bonnes conditions, les patates douces peuvent se conserver 4 à 6 mois.
 
 ## FAQ : Vos questions sur le bouturage des patates douces
 
