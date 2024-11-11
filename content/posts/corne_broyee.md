@@ -1,14 +1,14 @@
 ---
-title: "Découvrez la corne broyée : un atout pour votre jardinage"
-meta_title: "Découvrez la corne broyée : un atout pour votre jardinage"
+title: "Corne broyée engrais | Guide complet d'utilisation au potager"
+meta_title: "Corne broyée engrais : fertilisant naturel bio pour le jardin"
 description: "Apprenez comment la corne broyée peut transformer votre jardin en un havre de prospérité avec des conseils d'utilisation et d'application."
-date: 2024-12-08
+date: 2024-11-12
 image: "/images/posts/mass/corne_broyee.webp"
 imageAlt: "Utilisation de la corne broyée pour enrichir le sol de votre jardin"
 categories: ["Astuces du potager"]
 authors: ["Pierre Penchot"]
 tags: []
-draft: true
+draft: false
 ---
 
 La corne broyée est un fertilisant naturel incontournable pour les jardiniers soucieux de la santé de leur potager. Ce produit, dérivé de cornes animales, est riche en azote et offre une libération lente de nutriments, parfait pour nourrir vos plantes sur le long terme. Que vous cultiviez des légumes, des fruits ou des fleurs, la corne broyée peut révolutionner votre approche du jardinage. Cet article vous permettra de découvrir le rôle essentiel de la corne broyée et de vous donner des conseils pratiques sur son utilisation.
@@ -134,19 +134,19 @@ Des jardiniers ayant utilisé la corne broyée pour des cultures de fruits ont o
 
 ## FAQ sur la corne broyée
 
-### Q1 : À quelle fréquence dois-je mettre de la corne broyée ?
+### À quelle fréquence dois-je mettre de la corne broyée ?
 Une application printanière et estivale est recommandée, avec des retouches en automne si nécessaire.
 
-### Q2 : La corne broyée est-elle sûre pour toutes les plantes ?
+### La corne broyée est-elle sûre pour toutes les plantes ?
 Oui, mais certaines plantes moins gourmandes en nutriments pourraient ne pas avoir besoin d'un apport supplémentaire.
 
-### Q3 : La corne broyée est-elle soluble dans l'eau ?
+### La corne broyée est-elle soluble dans l'eau ?
 Non, la corne broyée est un engrais à libération lente et ne se dissout pas comme les engrais solubles.
 
-### Q4 : Puis-je utiliser la corne broyée dans une serre ?
+### Puis-je utiliser la corne broyée dans une serre ?
 Oui, la corne broyée est appropriée pour une utilisation en serre, augmentant la fertilité du sol.
 
-### Q5 : Quel est le meilleur moment pour appliquer la corne broyée ?
+### Quel est le meilleur moment pour appliquer la corne broyée ?
 Au printemps, avant la plantation, et en été pour soutenir la croissance active.
 
 ## En conclusion
