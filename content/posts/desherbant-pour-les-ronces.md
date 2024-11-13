@@ -1,8 +1,8 @@
 ---
-title: "Guide Pratique : Choisir le Meilleur Désherbant pour les Ronces"
-meta_title: "Guide Pratique : Choisir le Meilleur Désherbant pour les Ronces"
+title: "Choisir le Meilleur Désherbant pour les Ronces"
+meta_title: "Guide Désherbant : Comment éliminer les ronces efficacement"
 description: "Découvrez comment éliminer les ronces efficacement et les meilleures techniques de désherbage pour entretenir votre potager et jardin."
-date: 2024-11-13
+date: 2024-12-13
 image: "/images/posts/mass/desherbant_pour_les_ronces.webp"
 imageAlt: "Désherbant efficace pour ronces au jardin"
 categories: ["Astuces du potager"]

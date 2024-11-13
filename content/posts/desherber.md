@@ -8,7 +8,7 @@ imageAlt: "Techniques de désherbage pour un potager sain"
 categories: ["Entretenir votre potager"]
 authors: ["Jade Orlanal"]
 tags: []
-draft: true
+draft: false
 ---
 
 Le désherbage est une étape cruciale dans l’entretien d’un potager. Face à la prolifération des mauvaises herbes, il est essentiel de savoir comment désherber efficacement pour garantir la santé de vos cultures. Que vous soyez un jardinier amateur ou un professionnel du maraîchage, cet article vous guidera à travers les différentes méthodes de désherbage, l'utilisation de désherbants adaptés, ainsi que des astuces pratiques pour un jardin sans mauvaises herbes.
