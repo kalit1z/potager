@@ -2,7 +2,7 @@
 title: "Les Meilleurs Engrais pour Tomates : Boostez vos Récoltes!"
 meta_title: "Les Meilleurs Engrais pour Tomates : Boostez vos Récoltes!"
 description: "Découvrez tout sur les meilleurs engrais pour tomates et comment optimiser vos récoltes avec des techniques naturelles et efficaces."
-date: 2024-11-16
+date: 2024-12-16
 image: "/images/posts/mass/engrais_pour_tomates.webp"
 imageAlt: "Engrais naturels pour tomates pour une récolte abondante"
 categories: ["Entretenir votre potager"]
