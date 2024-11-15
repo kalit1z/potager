@@ -1,14 +1,14 @@
 ---
-title: "10 Astuces pour Utiliser un Engrais Naturel dans Votre Jardin"
+title: "Les engrais naturels à Utiliser dans Votre Jardin"
 meta_title: "10 Astuces pour Utiliser un Engrais Naturel dans Votre Jardin"
 description: "Découvrez comment choisir et appliquer des engrais naturels pour un jardin plus sain et productif grâce à nos 10 astuces pratiques."
-date: 2024-11-15
+date: 2024-11-16
 image: "/images/posts/mass/engrais_naturel.webp"
 imageAlt: "Engrais naturel pour un jardin sain et productif"
 categories: ["Entretenir votre potager"]
 authors: ["Jade Orlanal"]
 tags: []
-draft: true
+draft: false
 ---
 
 De nos jours, le jardinage prend une tournure nouvelle avec une montée de l'intérêt pour les pratiques durables. Les engrais naturels s'imposent comme une alternative respectueuse de l'environnement aux fertilisants chimiques. En adoptant ces méthodes, vous non seulement nourrirez vos plantes, mais vous contribuerez également à la santé de l'écosystème local. Voici 10 astuces pour utiliser un engrais naturel dans votre jardin et maximiser le potentiel de votre potager.
