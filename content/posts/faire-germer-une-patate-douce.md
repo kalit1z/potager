@@ -2,7 +2,7 @@
 title: "Guide Pratique : Faire Germer une Patate Douce avec Succès"
 meta_title: "Guide Pratique : Faire Germer une Patate Douce avec Succès"
 description: "Découvrez comment faire germer une patate douce avec succès ! Astuces, méthodes et conseils pratiques pour cultiver vos patates douces à la maison."
-date: 2024-11-17
+date: 2024-12-17
 image: "/images/posts/mass/faire_germer_une_patate_douce.webp"
 imageAlt: "Patate douce en cours de germination avec conseils pratiques"
 categories: ["Astuces du potager"]

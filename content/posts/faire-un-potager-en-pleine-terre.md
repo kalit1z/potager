@@ -1,6 +1,6 @@
 ---
-title: "Faire un potager en pleine terre : Guide complet pour jardiniers"
-meta_title: "Faire un potager en pleine terre : Guide complet pour jardiniers"
+title: "Comment créer un potager en pleine terre"
+meta_title: "Commment faire un potager en pleine terre "
 description: "Découvrez comment créer un potager en pleine terre avec nos conseils pratiques, calendrier de culture, et astuces de jardinage. "
 date: 2024-11-18
 image: "/images/posts/mass/faire_un_potager_en_pleine_terre.webp"
@@ -8,7 +8,7 @@ imageAlt: "Jardinier travaillant dans un potager en pleine terre"
 categories: ["Planter votre potager"]
 authors: ["Pierre Penchot"]
 tags: []
-draft: true
+draft: false
 ---
 
 Créer un potager en pleine terre est l'une des activités les plus gratifiantes et enrichissantes qu'un amateur de jardinage puisse entreprendre. Non seulement cela permet de cultiver ses propres légumes et herbes, mais cela favorise également la biodiversité, améliore la qualité du sol et offre un espace de verdure apaisant. Que vous soyez un jardinier novice ou expérimenté, cet article est là pour vous guider à travers toutes les étapes nécessaires pour réussir votre potager. Alors, comment s'y prendre ? 
