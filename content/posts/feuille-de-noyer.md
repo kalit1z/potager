@@ -1,5 +1,5 @@
 ---
-title: "Découvrez les bienfaits de la feuille de noyer en jardinage"
+title: "Les bienfaits souvent négligées de la feuille de noyer"
 meta_title: "Découvrez les bienfaits de la feuille de noyer en jardinage"
 description: "Apprenez comment utiliser les feuilles de noyer en jardinage, leurs propriétés, leur utilisation en compost et les précautions à prendre."
 date: 2024-11-20
