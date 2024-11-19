@@ -8,7 +8,7 @@ imageAlt: "Feuilles de noyer utilisées dans un jardin"
 categories: ["Entretenir votre potager"]
 authors: ["Jade Orlanal"]
 tags: []
-draft: true
+draft: false
 ---
 
 Les feuilles de noyer, souvent négligées dans le jardinage, possèdent des caractéristiques uniques qui peuvent être à la fois bénéfiques et préoccupantes. Entre leurs usages en compost, leurs propriétés toxiques et leurs effets sur d'autres plantes, il existe une multitude d'aspects fascinants concernant ces feuilles. Dans cet article, nous explorerons l'univers des feuilles de noyer, en détaillant leurs bienfaits, leurs risques potentiels et les pratiques de jardinage respectueuses de l'environnement.
