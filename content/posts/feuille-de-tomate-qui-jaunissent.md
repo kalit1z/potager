@@ -1,6 +1,6 @@
 ---
 title: "Comment résoudre le problème des feuilles de tomate qui jaunissent ?"
-meta_title: "Comment résoudre le problème des feuilles de tomate qui jaunissent ?"
+meta_title: "Pourquoi les feuilles de tomate jaunissent et comment résoudre le problème"
 description: "Découvrez pourquoi les feuilles de vos tomates jaunissent et comment remédier à ce problème courant dans le jardinage."
 date: 2024-11-21
 image: "/images/posts/mass/feuille_de_tomate_qui_jaunissent.webp"
@@ -8,7 +8,7 @@ imageAlt: "Feuilles de tomate jaunies sur une plante"
 categories: ["Entretenir votre potager"]
 authors: ["Jade Orlanal"]
 tags: []
-draft: true
+draft: false
 ---
 
 La culture des tomates est un plaisir pour de nombreux jardiniers, mais elle peut aussi être source de frustrations, surtout lorsque les feuilles de tomate jaunissent. Ce phénomène est non seulement un indicateur que quelque chose ne va pas, mais il peut également affecter le développement de vos fruits. Les tomates qui ne rougissent pas à maturité deviennent alors une véritable préoccupation. Dans cet article, nous allons explorer en profondeur les raisons pour lesquelles vos plants de tomates peuvent présenter des feuilles jaunies, ainsi que les solutions possibles pour redresser la barre.
