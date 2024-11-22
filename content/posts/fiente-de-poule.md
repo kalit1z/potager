@@ -8,7 +8,7 @@ imageAlt: "Fiente de poule utilisée comme fertilisant naturel"
 categories: ["Entretenir votre potager"]
 authors: ["Jade Orlanal"]
 tags: []
-draft: true
+draft: false
 ---
 
 La fiente de poule, un produit souvent négligé mais pourtant incontournable pour les jardiniers, est un véritable trésor pour ceux qui cherchent à améliorer la qualité de leur sol et à produire des légumes sains et abondants. En plus d'être un fertilisant naturel d'une efficacité redoutable, elle présente de nombreux avantages qui séduisent aussi bien les jardiniers débutants qu'expérimentés. Cet article explore en profondeur les différents aspects de la fiente de poule, son utilisation, ses avantages, ses risques, et bien plus encore. 
