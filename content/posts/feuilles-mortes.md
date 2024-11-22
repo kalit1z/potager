@@ -2,7 +2,7 @@
 title: "Feuilles mortes : 5 astuces jardinage pour les valoriser"
 meta_title: "Feuilles mortes : 5 astuces jardinage pour les valoriser"
 description: "Découvrez comment valoriser les feuilles mortes avec ces astuces de jardinage. Apprenez à les utiliser comme paillage et compost !"
-date: 2024-11-22
+date: 2024-12-22
 image: "/images/posts/mass/feuilles_mortes.webp"
 imageAlt: "Feuilles mortes dans un jardin"
 categories: ["Entretenir votre potager"]

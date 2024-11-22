@@ -1,6 +1,6 @@
 ---
 title: "Fiente de poule : le fertilisant naturel qui booste votre jardin"
-meta_title: "Fiente de poule : le fertilisant naturel qui booste votre jardin"
+meta_title: "les bienfaits et l'utilisation de la fiente de poule"
 description: "Découvrez comment la fiente de poule peut transformer votre jardin en un havre de verdure. Un guide complet sur les bienfaits et l'utilisation de cet engrais naturel."
 date: 2024-11-23
 image: "/images/posts/mass/fiente_de_poule.webp"
@@ -109,7 +109,7 @@ Oui, les tomates sont comestibles pour les poules, mais il est important de ne l
 Pour un bon bien-être, il est recommandé d'avoir au moins 10 m² par poule dans un espace extérieur.
 
 ### Quelle est la valeur NPK de la fiente de poule ?
-La valeur NPK de la fiente de poule varie généralement entre 4-3-2, indiquant une bonne concentration en azote, phosphore et potassium.
+La valeur [NPK](besoins-npk-des-cultures) de la fiente de poule varie généralement entre 4-3-2, indiquant une bonne concentration en azote, phosphore et potassium.
 
 ### Y a-t-il des dangers liés à la fiente de poule ?
 Oui, le fumier de poule peut contenir des agents pathogènes et doit être composté correctement pour être utilisé en toute sécurité.
