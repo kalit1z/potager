@@ -2,7 +2,7 @@
 title: "Prévenir la Fonte des Semis : Astuces de Jardinage Essentielles"
 meta_title: "Prévenir la Fonte des Semis : Astuces de Jardinage Essentielles"
 description: "Découvrez comment prévenir la fonte des semis avec des conseils pratiques pour réussir vos plants de tomates et éviter les champignons indésirables."
-date: 2024-11-25
+date: 2024-12-25
 image: "/images/posts/mass/fonte_des_semis.webp"
 imageAlt: "Germes de tomates en pleine croissance, évitant la fonte des semis"
 categories: ["Astuces du potager"]
