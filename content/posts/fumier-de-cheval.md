@@ -2,7 +2,7 @@
 title: "Fumier de cheval : l'allié naturel pour un jardin florissant"
 meta_title: "Fumier de cheval : l'allié naturel pour un jardin florissant"
 description: "Découvrez comment le fumier de cheval enrichit votre jardin en tant qu'engrais naturel. Guide pratique et conseils pour un potager florissant."
-date: 2024-11-26
+date: 2024-12-26
 image: "/images/posts/mass/fumier_de_cheval.webp"
 imageAlt: "Fumier de cheval étalé dans un jardin pour enrichir le sol"
 categories: ["Astuces du potager"]

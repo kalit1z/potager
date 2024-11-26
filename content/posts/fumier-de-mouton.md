@@ -1,6 +1,6 @@
 ---
 title: "Fumier de mouton : le secret pour un jardin florissant !"
-meta_title: "Fumier de mouton : le secret pour un jardin florissant !"
+meta_title: "Comment le fumier de mouton enrichit votre jardin"
 description: "Découvrez comment le fumier de mouton enrichit votre jardin, ses avantages, son utilisation, et son prix. Transformez votre potager dès aujourd'hui !"
 date: 2024-11-27
 image: "/images/posts/mass/fumier_de_mouton.webp"
@@ -8,7 +8,7 @@ imageAlt: "Fumier de mouton étalé dans un jardin pour enrichir le sol"
 categories: ["Astuces du potager"]
 authors: ["Pierre Penchot"]
 tags: []
-draft: true
+draft: false
 ---
 
 Le fumier de mouton est souvent sous-estimé dans le monde du jardinage, pourtant il constitue un atout majeur pour les agriculteurs et les jardiniers soucieux de la qualité de leurs cultures. En effet, ce type de fumier est riche en nutriments et peut transformer votre jardin ou votre potager en un véritable Eden. Mais comment s'en servir efficacement ? Quels sont ses effets bénéfiques et ses éventuels dangers ? Cet article vous guidera à travers tout ce que vous devez savoir sur le fumier de mouton, des crottes de mouton jusqu'à leur utilisation sûre.
