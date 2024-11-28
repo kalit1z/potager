@@ -1,6 +1,6 @@
 ---
 title: "Godet pour Semis : Guide Pratique pour Réussir votre Jardin"
-meta_title: "Godet pour Semis : Guide Pratique pour Réussir votre Jardin"
+meta_title: "Comment utiliser le godet pour semis efficacement"
 description: "Découvrez comment utiliser le godet pour semis efficacement afin de réussir votre jardin. Techniques d'arrosage, conseils, et astuces pratiques."
 date: 2024-11-29
 image: "/images/posts/mass/godet_pour_semis.webp"
@@ -8,7 +8,7 @@ imageAlt: "Godets pour semis remplis de terre et de jeunes plants"
 categories: ["Planter votre potager"]
 authors: ["Pierre Penchot"]
 tags: []
-draft: true
+draft: false
 ---
 
 Cultiver un jardin florissant commence par de bonnes pratiques de semis. L'utilisation de godets pour les semis est une technique prisée qui facilite la croissance des plantes, en leur offrant un environnement contrôlé. Mais sachant qu’un bon arrosage est essentiel pour le succès des semis, cette question se pose régulièrement : "Faut-il arroser les semis tous les jours ?" Cet article vous guidera à travers les multiples facettes de l’utilisation de godets pour semis, en abordant des questions de fréquence d’arrosage, des plantes adaptées et des astuces pour un jardin resplendissant.
