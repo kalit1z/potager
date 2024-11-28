@@ -2,7 +2,7 @@
 title: "Comment Créer une Fumière Idéale pour Nourrir Votre Jardin"
 meta_title: "Comment Créer une Fumière Idéale pour Nourrir Votre Jardin"
 description: "Découvrez comment créer une fumière pour enrichir votre jardin avec du fumier, des techniques d'incorporation et des conseils pratiques."
-date: 2024-11-28
+date: 2024-12-28
 image: "/images/posts/mass/fumiere.webp"
 imageAlt: "Fumière bien organisée avec du fumier et des déchets de jardin"
 categories: ["Entretenir votre potager"]
