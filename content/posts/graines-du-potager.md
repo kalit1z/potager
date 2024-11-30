@@ -1,6 +1,6 @@
 ---
 title: "Guide Ultime des Graines du Potager : Cultivez Vos Jardins"
-meta_title: "Guide Ultime des Graines du Potager : Cultivez Vos Jardins"
+meta_title: "Comment choisir les meilleures semences pour un jardin"
 description: "Découvrez tout sur les graines du potager et apprenez à choisir les meilleures semences pour un jardin productif et écoresponsable."
 date: 2024-12-01
 image: "/images/posts/mass/graines_du_potager.webp"
@@ -8,7 +8,7 @@ imageAlt: "Assortiment de graines de légumes et d'herbes pour le jardin"
 categories: ["Planter votre potager"]
 authors: ["Pierre Penchot"]
 tags: []
-draft: true
+draft: false
 ---
 
 Le jardinage est bien plus qu'un simple passe-temps ; c'est une passion qui nous reconnecte avec la nature et nous permet de cultiver notre propre nourriture. Que vous soyez un jardinier novice ou expérimenté, les **graines du potager** représentent le point de départ de votre aventure horticole. Dans cet article, nous allons explorer en profondeur les différents types de semences, comment les choisir, les cultiver et les entretenir pour garantir un potager florissant. 

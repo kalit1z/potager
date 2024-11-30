@@ -2,7 +2,7 @@
 title: "Guide Complet pour Cultiver le Grain de Maïs dans Votre Jardin"
 meta_title: "Guide Complet pour Cultiver le Grain de Maïs dans Votre Jardin"
 description: "Découvrez tous nos conseils pour cultiver, récolter et conserver le grain de maïs à la perfection."
-date: 2024-11-30
+date: 2024-12-30
 image: "/images/posts/mass/grain_de_mais.webp"
 imageAlt: "Épis de maïs mûrs dans un jardin ensoleillé"
 categories: ["Planter votre potager"]
