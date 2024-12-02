@@ -2,13 +2,13 @@
 title: "Découvrez la Grelinette : L'outil essentiel pour un jardinage réussi"
 meta_title: "Découvrez la Grelinette : L'outil essentiel pour un jardinage réussi"
 description: "Découvrez les avantages de la grelinette pour votre potager : prix, utilisation, fabrication et bien plus encore pour un jardinage efficace."
-date: 2024-12-02
+date: 2024-12-03
 image: "/images/posts/mass/grelinette.webp"
 imageAlt: "Grelinette en métal utilisée pour retourner la terre dans un jardin"
 categories: ["Entretenir votre potager"]
 authors: ["Jade Orlanal"]
 tags: []
-draft: true
+draft: false
 ---
 
 La grelinette, outil emblématique du jardinage écologique, a su conquérir le cœur des jardiniers et des permaculteurs. Son efficacité et son respect de la structure du sol en font un indispensable pour tous ceux qui souhaitent créer ou entretenir un potager sain et productif. Dans cet article, nous allons explorer en profondeur cet outil, son prix, sa fabrication, et bien plus encore.

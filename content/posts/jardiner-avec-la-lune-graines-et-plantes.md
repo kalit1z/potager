@@ -2,7 +2,7 @@
 title: "Jardiner avec la lune : graines et plantes pour un jardin prospère"
 meta_title: "Jardiner avec la lune : graines et plantes pour un jardin prospère"
 description: "Découvrez comment jardiner avec la lune peut optimiser la croissance de vos plantes et semences. Conseils pratiques sur les radis, tomates et plus encore."
-date: 2024-12-03
+date: 2024-12-25
 image: "/images/posts/mass/jardiner_avec_la_lune_graines_et_plantes.webp"
 imageAlt: "Jardinier plantant des graines sous la lumière de la lune"
 categories: ["Planter votre potager"]

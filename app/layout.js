@@ -17,6 +17,7 @@ export default function RootLayout({ children }) {
           name="viewport"
           content="width=device-width, initial-scale=1, maximum-scale=5"
         />
+        <meta name="google-adsense-account" content="ca-pub-1954418000406820"></meta>
 
         {/* favicon */}
         <link rel="shortcut icon" href={config.site.favicon} />
