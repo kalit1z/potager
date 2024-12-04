@@ -1,6 +1,6 @@
 ---
 title: "Comment Cultiver des Légumes au Jardin : Guide Pratique 2025"
-meta_title: "Comment Cultiver des Légumes au Jardin : Guide Pratique 2025"
+meta_title: "Comment cultiver facilement des légumes au jardin en 2025"
 description: "Découvrez comment cultiver facilement des légumes au jardin, avec des conseils sur la température, le semis et les associations pour un potager florissant."
 date: 2024-12-05
 image: "/images/posts/mass/legume_jardin.webp"
@@ -8,7 +8,7 @@ imageAlt: "Jardinage avec divers légumes cultivés dans un potager"
 categories: ["Entretenir votre potager"]
 authors: ["Jade Orlanal"]
 tags: []
-draft: true
+draft: false
 ---
 
 Les jardins de légumes sont bien plus qu'un simple passe-temps : ils sont des sources de nourriture saine, de satisfaction personnelle et de lien avec la nature. Que vous soyez novice ou jardinier aguerri, comprendre les principes de culture de légumes au jardin est essentiel pour récolter des produits savoureux et abondants. Dans cet article, nous explorons tout ce que vous devez savoir pour réussir votre potager, en nous concentrant sur divers aspects comme la température de semis, les associations de légumes et bien plus encore.

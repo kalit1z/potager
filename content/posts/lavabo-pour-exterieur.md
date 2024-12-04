@@ -2,7 +2,7 @@
 title: "Guide Complet pour Choisir un Lavabo pour Extérieur Idéal"
 meta_title: "Guide Complet pour Choisir un Lavabo pour Extérieur Idéal"
 description: "Découvrez comment choisir le lavabo idéal pour votre jardin extérieur avec nos conseils pratiques et astuces pour un aménagement réussi."
-date: 2024-12-04
+date: 2024-12-26
 image: "/images/posts/mass/lavabo_pour_exterieur.webp"
 imageAlt: "Lavabo design en extérieur avec des plantes autour"
 categories: ["Astuces du potager"]

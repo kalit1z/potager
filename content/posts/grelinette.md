@@ -1,5 +1,5 @@
 ---
-title: "Découvrez la Grelinette : L'outil essentiel pour un jardinage réussi"
+title: "Les avantages de la grelinette pour votre potager"
 meta_title: "Découvrez la Grelinette : L'outil essentiel pour un jardinage réussi"
 description: "Découvrez les avantages de la grelinette pour votre potager : prix, utilisation, fabrication et bien plus encore pour un jardinage efficace."
 date: 2024-12-03
