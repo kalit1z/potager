@@ -1,14 +1,14 @@
 ---
 title: "Feuilles mortes : 5 astuces jardinage pour les valoriser"
-meta_title: "Feuilles mortes : 5 astuces jardinage pour les valoriser"
+meta_title: "Comment valoriser les feuilles mortes avec ces 5 astuces"
 description: "Découvrez comment valoriser les feuilles mortes avec ces astuces de jardinage. Apprenez à les utiliser comme paillage et compost !"
-date: 2024-12-22
+date: 2024-12-11
 image: "/images/posts/mass/feuilles_mortes.webp"
 imageAlt: "Feuilles mortes dans un jardin"
 categories: ["Entretenir votre potager"]
 authors: ["Jade Orlanal"]
 tags: []
-draft: true
+draft: false
 ---
 
 Le jardinage est une pratique qui allie créativité, patience et connaissance des cycles naturels. Parmi ces cycles, un des éléments souvent négligés mais d'une grande valeur est celui des feuilles mortes. Chaque automne, ces précieux détritus s'accumulent au sol, mais plutôt que de les ratisser sans pitié, pourquoi ne pas les transformer en alliés pour votre jardin ? Grâce à des techniques comme le **paillage** et le compostage, vous pouvez optimiser la santé de vos plantes, réduire les besoins en arrosage, et améliorer la biodiversité du sol. Voici un tour d'horizon pour valoriser les feuilles mortes dans votre jardin.
