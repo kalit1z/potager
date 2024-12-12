@@ -1,14 +1,14 @@
 ---
 title: "Guide Pratique : Faire Germer une Patate Douce avec Succès"
-meta_title: "Guide Pratique : Faire Germer une Patate Douce avec Succès"
+meta_title: "Comment faire germer une patate douce avec succès"
 description: "Découvrez comment faire germer une patate douce avec succès ! Astuces, méthodes et conseils pratiques pour cultiver vos patates douces à la maison."
-date: 2024-12-17
+date: 2024-12-13
 image: "/images/posts/mass/faire_germer_une_patate_douce.webp"
 imageAlt: "Patate douce en cours de germination avec conseils pratiques"
 categories: ["Astuces du potager"]
 authors: ["Pierre Penchot"]
 tags: []
-draft: true
+draft: false
 ---
 
 La patate douce, avec son goût sucré et sa texture délicieuse, est devenue un aliment de base dans de nombreux foyers. Mais saviez-vous qu'il est possible de faire germer une patate douce chez soi? La germination des patates douces est non seulement un processus fascinant, mais elle permet également d'initier la culture de cette délicieuse tubercule. Dans cet article, nous vous guiderons à travers chaque étape pour faire germer des patates douces et maximiser vos chances de récolte. 
