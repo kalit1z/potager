@@ -1,14 +1,14 @@
 ---
 title: "Guide Complet pour Choisir un Lavabo pour Extérieur Idéal"
-meta_title: "Guide Complet pour Choisir un Lavabo pour Extérieur Idéal"
+meta_title: "Comment choisir le lavabo idéal pour votre jardin extérieur"
 description: "Découvrez comment choisir le lavabo idéal pour votre jardin extérieur avec nos conseils pratiques et astuces pour un aménagement réussi."
-date: 2024-12-26
+date: 2024-12-15
 image: "/images/posts/mass/lavabo_pour_exterieur.webp"
 imageAlt: "Lavabo design en extérieur avec des plantes autour"
 categories: ["Astuces du potager"]
 authors: ["Pierre Penchot"]
 tags: []
-draft: true
+draft: false
 ---
 
 Un lavabo extérieur est un atout indéniable pour tout amateur de jardinage ou de cuisine en plein air. Imaginez-vous en train de récolter des tomates juteuses ou de laver des herbes fraîches directement dans votre jardin. Non seulement un évier de jardin améliore la fonctionnalité de votre espace extérieur, mais il ajoute également une touche esthétique et pratique. Dans cet article, nous allons explorer en détail les différentes options de lavabo pour extérieur, les matériaux avec lesquels vous pouvez les fabriquer, et comment les intégrer harmonieusement dans votre jardin.
