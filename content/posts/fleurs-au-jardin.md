@@ -1,14 +1,14 @@
 ---
 title: "Fleurs au Jardin : Guide Pratique pour Éclore Votre Espace Vert"
-meta_title: "Fleurs au Jardin : Guide Pratique pour Éclore Votre Espace Vert"
+meta_title: "Comment intégrer des fleurs au jardin et au potager"
 description: "Découvrez comment intégrer des fleurs au jardin et au potager pour favoriser la biodiversité et embellir votre espace vert."
-date: 2024-12-24
+date: 2024-12-17
 image: "/images/posts/mass/fleurs_au_jardin.webp"
 imageAlt: "Fleurs colorées dans un jardin en pleine floraison"
 categories: ["planter votre potager"]
 authors: ["Pierre Penchot"]
 tags: []
-draft: true
+draft: false
 ---
 
 Le jardin est bien plus qu'un simple espace de culture ; c'est un véritable écosystème où fleurs et légumes cohabitent harmonieusement. Dans cet article, nous allons explorer la relation unique entre les fleurs et le potager, en mettant en lumière les bienfaits de ces associations pour la biodiversité et la beauté de votre jardin. Que vous soyez un jardinier débutant ou un expert en jardinage, vous trouverez ici des conseils pratiques pour créer un potager fleuri, agrémenté de fleurs aux fonctions variées.
