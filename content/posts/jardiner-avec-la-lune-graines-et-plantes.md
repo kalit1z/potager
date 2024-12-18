@@ -1,14 +1,14 @@
 ---
 title: "Jardiner avec la lune : graines et plantes pour un jardin prospère"
-meta_title: "Jardiner avec la lune : graines et plantes pour un jardin prospère"
+meta_title: "Comment jardiner avec la lune peut optimiser la croissance de vos plantes"
 description: "Découvrez comment jardiner avec la lune peut optimiser la croissance de vos plantes et semences. Conseils pratiques sur les radis, tomates et plus encore."
-date: 2024-12-25
+date: 2024-12-19
 image: "/images/posts/mass/jardiner_avec_la_lune_graines_et_plantes.webp"
 imageAlt: "Jardinier plantant des graines sous la lumière de la lune"
 categories: ["Planter votre potager"]
 authors: ["Pierre Penchot"]
 tags: []
-draft: true
+draft: false
 ---
 
 Le jardinage avec la lune est une pratique ancestrale qui suscite un regain d'intérêt parmi les jardiniers d'aujourd'hui. En s'appuyant sur les cycles lunaires, il est possible d'optimiser la croissance des plantes et la récolte des semences. Que vous soyez novice ou jardinier expérimenté, intégrer la lune dans votre jardinage peut être un véritable atout. Cet article vous guide dans l'univers captivant du jardinage lunaire, en explorant les méthodes pour semer, cultiver et entretenir votre potager en harmonie avec les phases de la lune.
