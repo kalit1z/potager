@@ -1,14 +1,14 @@
 ---
 title: "Prévenir la Fonte des Semis : Astuces de Jardinage Essentielles"
-meta_title: "Prévenir la Fonte des Semis : Astuces de Jardinage Essentielles"
+meta_title: "Comment prévenir la fonte des semis avec des conseils"
 description: "Découvrez comment prévenir la fonte des semis avec des conseils pratiques pour réussir vos plants de tomates et éviter les champignons indésirables."
-date: 2024-12-25
+date: 2024-12-21
 image: "/images/posts/mass/fonte_des_semis.webp"
 imageAlt: "Germes de tomates en pleine croissance, évitant la fonte des semis"
 categories: ["Astuces du potager"]
 authors: ["Pierre Penchot"]
 tags: []
-draft: true
+draft: false
 ---
 
 La fonte des semis est un véritable fléau pour les jardiniers amateurs et professionnels. Vous avez pris le temps de préparer vos semences, de choisir le terreau idéal et de soigner vos plants avec passion, mais voilà qu’ils s’effondrent avant même d’avoir eu la chance de prendre racine. Que se passe-t-il ? Cette problématique, aussi frustrante qu’insidieuse, mérite une attention particulière. Dans cet article, nous allons examiner en profondeur la fonte des semis, en particulier celle affectant les semis de tomates, tout en offrant des astuces pratiques pour prévenir ce phénomène désastreux.
