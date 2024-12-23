@@ -1,14 +1,14 @@
 ---
 title: "Fumier de cheval : l'allié naturel pour un jardin florissant"
-meta_title: "Fumier de cheval : l'allié naturel pour un jardin florissant"
+meta_title: "Comment le fumier de cheval enrichit votre jardin"
 description: "Découvrez comment le fumier de cheval enrichit votre jardin en tant qu'engrais naturel. Guide pratique et conseils pour un potager florissant."
-date: 2024-12-26
+date: 2024-12-24
 image: "/images/posts/mass/fumier_de_cheval.webp"
 imageAlt: "Fumier de cheval étalé dans un jardin pour enrichir le sol"
 categories: ["Astuces du potager"]
 authors: ["Pierre Penchot"]
 tags: []
-draft: true
+draft: false
 ---
 
 Le jardinage durable et efficace repose souvent sur l'utilisation de ressources naturelles, et le fumier de cheval se présente comme un choix judicieux pour les jardiniers soucieux d'améliorer la qualité de leur sol. Riche en nutriments, il transforme votre jardin en un véritable havre de verdure et de floraison. Dans cet article, nous explorerons en profondeur les rouages de cet engrais naturel, les meilleures pratiques pour son utilisation, ainsi que toutes les nuances à considérer pour un jardin florissant.
