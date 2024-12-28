@@ -2,13 +2,13 @@
 title: "Guide Complet pour Cultiver le Grain de Maïs dans Votre Jardin"
 meta_title: "Guide Complet pour Cultiver le Grain de Maïs dans Votre Jardin"
 description: "Découvrez tous nos conseils pour cultiver, récolter et conserver le grain de maïs à la perfection."
-date: 2024-12-28
+date: 2024-12-29
 image: "/images/posts/mass/grain_de_mais.webp"
 imageAlt: "Épis de maïs mûrs dans un jardin ensoleillé"
 categories: ["Planter votre potager"]
 authors: ["Pierre Penchot"]
 tags: []
-draft: true
+draft: false
 ---
 
 Cultiver son propre grain de maïs est une aventure gratifiante qui peut enrichir votre jardin et votre table. Que vous soyez un jardinier aguerri ou un novice, comprendre le cycle de vie du maïs, les techniques de culture efficaces et les méthodes de récolte est essentiel. Dans cet article, nous plongerons dans les nombreux aspects de la culture du maïs, en abordant des sujets variés, depuis la plantation jusqu'à la récolte et la conservation du grain de maïs, tout en répondant aux questions les plus fréquentes sur cette culture emblématique.
