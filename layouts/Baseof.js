@@ -22,6 +22,7 @@ const Base = ({
   return (
     <>
       <Head>
+        <meta> name="google-adsense-account" content="ca-pub-4432019948702503"</meta>
         {/* title */}
         <title>
           {plainify(
